@@ -1,0 +1,18 @@
+# Actually, this file isn't even tracked yet
+/publish-spin.sh
+/notes.txt
+/spinsite.sublime-workspace
+/spinsite.sublime-project
+
+# The build-result of hugo
+/www-spin/public/
+
+# Themes
+/www-spin/themes/
+
+# Ook al in .git/info/exclude gezet
+.DS_Store
+*~
+
+# Do not ignore these
+!/.gitignore
