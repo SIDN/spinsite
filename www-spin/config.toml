@@ -27,7 +27,7 @@ DefaultContentLanguage = "en"
     [[languages.en.menu.shortcuts]]
 #      pre = "<h3>More</h3>"	
       name = "<i class='fa fa-github'></i> Github repo"
-      identifier = "ds"
+#      identifier = "github"
       url = "https://github.com/sidn/spin"
       weight = 10
   [languages.nl]
@@ -38,7 +38,7 @@ DefaultContentLanguage = "en"
     [[languages.nl.menu.shortcuts]]
 #      pre = "<h3>Meer</h3>"
       name = "<i class='fa fa-github'></i> Github repo"
-      identifier = "ds"
+#      identifier = "github"
       url = "https://github.com/sidn/spin"
       weight = 10
 
