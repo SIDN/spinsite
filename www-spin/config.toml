@@ -52,6 +52,7 @@ DefaultContentLanguage = "en"
   disableNavChevron = false # set true to hide next/prev chevron, default is false
   author = "Marco Davids"
 
+# Activate search
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
 

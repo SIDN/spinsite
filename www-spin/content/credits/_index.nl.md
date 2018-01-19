@@ -11,7 +11,7 @@ description = "Bijdragers SPIN"
 <div class="ghContributors">
     <div>
       <img src="https://pbs.twimg.com/profile_images/668515491720237056/QDjQ_jYL_400x400.jpg" class="inline" width="32" height="32" style="height: 32px;height: 32px;margin-bottom:.25em; vertical-align:middle; ">
-      <label><i class='fa fa-twitter'></i><a href="https://twitter.com/hesselma">Cristian Hesselman</a></label>
+      <label><i class='fa fa-twitter'></i><a href="https://twitter.com/hesselma">hesselma</a></label>
       <span class="contributions">advies en procesbegeleiding</span>
     </div>
 </div>
