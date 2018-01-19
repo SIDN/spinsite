@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
 # https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    languageName = "English"
+    languageName = "🇬🇧  / English"
     languageCode = "en-US"
     weight = 1
     title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
@@ -34,7 +34,7 @@ DefaultContentLanguage = "en"
       url = "https://github.com/sidn/spin"
       weight = 40
   [languages.nl]
-    languageName = "Nederlands"
+    languageName = "🇳🇱  / Nederlands"
     languageCode = "nl-NL"
     weight = 2
     title = "SPIN Security and Privacy for Inhome Networks door SIDN Labs"
