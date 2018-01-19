@@ -9,7 +9,7 @@ theme = "docdock"
 # default themes/ dir will be used, no special one required
 # themesdir = "../.."
 
-baseURL = "/"
+baseURL = "https://spin.sidnlabs.nl/"
 
 DefaultContentLanguage = "en"
 # perhaps useful when we do _index.en.md doen instead of _index.md
@@ -24,15 +24,11 @@ DefaultContentLanguage = "en"
     weight = 1
     title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
     [[languages.en.menu.shortcuts]]
-      pre = "<h3>More</h3>"
-      name = "<i class='fa fa-bullhorn'></i> Credits"
-      url = "/credits/"
-      weight = 30
-    [[languages.en.menu.shortcuts]]
+      pre = "<h3>More</h3>"	
       name = "<i class='fa fa-github'></i> Github repo"
       identifier = "ds"
       url = "https://github.com/sidn/spin"
-      weight = 40
+      weight = 10
   [languages.nl]
     languageName = "🇳🇱  / Nederlands"
     languageCode = "nl-NL"
@@ -40,14 +36,10 @@ DefaultContentLanguage = "en"
     title = "SPIN Security and Privacy for Inhome Networks door SIDN Labs"
     [[languages.nl.menu.shortcuts]]
       pre = "<h3>Meer</h3>"
-      name = "<i class='fa fa-bullhorn'></i> Credits"
-      url = "/nl/credits/"
-      weight = 30
-    [[languages.nl.menu.shortcuts]]
       name = "<i class='fa fa-github'></i> Github repo"
       identifier = "ds"
       url = "https://github.com/sidn/spin"
-      weight = 40
+      weight = 10
 
 [params]
   editURL = "https://github.com/SIDN/spinsite/tree/master/www-spin/content/"

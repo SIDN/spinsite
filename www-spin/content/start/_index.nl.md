@@ -2,8 +2,7 @@
 title = "Beginnen"
 description = ""
 weight = 1
-alwaysopen = true
-chapter = true
+alwaysopen = false
 +++
 
 ## Vereisten
