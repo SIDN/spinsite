@@ -1,75 +1,67 @@
-theme = "docdock"
+###################################################################
+#
+# https://spin.sidnlabs.nl/ config.joml
+#
+##################################################################
+copyright = "SIDN Labs"
 
+theme = "docdock"
 # default themes/ dir will be used, no special one required
 # themesdir = "../.."
+
 baseURL = "/"
+
 DefaultContentLanguage = "en"
+# perhaps useful when we do _index.en.md doen instead of _index.md
+# (which was problematic for other reasons, possibly a theme bug)
 #defaultContentLanguageInSubdir = true
-copyright = "SIDN Labs"
 
 # https://gohugo.io/content-management/multilingual/
 [languages]
-[languages.en]
-languageName = "English"
-languageCode = "en-US"
-weight = 1
-title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
-[[languages.en.menu.shortcuts]]
-pre = "<h3>More</h3>"
-name = "<i class='fa fa-bullhorn'></i> Credits"
-url = "/en/credits/"
-weight = 30
-[[languages.en.menu.shortcuts]]
-name = "<i class='fa fa-github'></i> Github repo"
-identifier = "ds"
-url = "https://github.com/sidn/spin"
-weight = 40
-
-[languages.nl]
-languageName = "Nederlands"
-languageCode = "nl-NL"
-weight = 2
-title = "SPIN Security and Privacy for Inhome Networks door SIDN Labs"
-[[languages.nl.menu.shortcuts]]
-pre = "<h3>Meer</h3>"
-name = "<i class='fa fa-bullhorn'></i> Credits"
-url = "/nl/credits/"
-weight = 30
-[[languages.nl.menu.shortcuts]]
-name = "<i class='fa fa-github'></i> Github repo"
-identifier = "ds"
-url = "https://github.com/sidn/spin"
-weight = 40
-
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    weight = 1
+    title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
+    [[languages.en.menu.shortcuts]]
+      pre = "<h3>More</h3>"
+      name = "<i class='fa fa-bullhorn'></i> Credits"
+      url = "/credits/"
+      weight = 30
+    [[languages.en.menu.shortcuts]]
+      name = "<i class='fa fa-github'></i> Github repo"
+      identifier = "ds"
+      url = "https://github.com/sidn/spin"
+      weight = 40
+  [languages.nl]
+    languageName = "Nederlands"
+    languageCode = "nl-NL"
+    weight = 2
+    title = "SPIN Security and Privacy for Inhome Networks door SIDN Labs"
+    [[languages.nl.menu.shortcuts]]
+      pre = "<h3>Meer</h3>"
+      name = "<i class='fa fa-bullhorn'></i> Credits"
+      url = "/nl/credits/"
+      weight = 30
+    [[languages.nl.menu.shortcuts]]
+      name = "<i class='fa fa-github'></i> Github repo"
+      identifier = "ds"
+      url = "https://github.com/sidn/spin"
+      weight = 40
 
 [params]
-editURL = "https://github.com/SIDN/spinsite/tree/master/www-spin/content/"
-showVisitedLinks = true # default is false
-themeStyle = "original" # "original" or "flex" # default "original"
-themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
-ordersectionsby = "weight" # ordersectionsby = "title"
-disableHomeIcon = false # default is false
-disableSearch = false # default is false
-disableNavChevron = false # set true to hide next/prev chevron, default is false
-author = "Marco Davids"
+  editURL = "https://github.com/SIDN/spinsite/tree/master/www-spin/content/"
+  showVisitedLinks = true # default is false
+  themeStyle = "original" # "original" or "flex" # default "original"
+  themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+  ordersectionsby = "weight" # ordersectionsby = "title"
+  disableHomeIcon = false # default is false
+  disableSearch = false # default is false
+  disableNavChevron = false # set true to hide next/prev chevron, default is false
+  author = "Marco Davids"
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+  home = [ "HTML", "RSS", "JSON"]
 
-
-
-### MD nog even geen toepassing voor...
-#
-# [[menu.shortcuts]]
-# name = "<i class='fa fa-camera'></i> Showcases"
-# url = "/showcase"
-# weight = 11
-#
-# [[menu.shortcuts]]
-# name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
-# identifier = "hugodoc"
-# url = "https://gohugo.io/"
-# weight = 20
-#
-###
-
+#[permalinks]
+#  post = "/:year/:month/:title/"
