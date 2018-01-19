@@ -1,5 +1,6 @@
 +++
 title = "Configuratie"
+description = "Configureren van SPIN"
 weight = 2
 slug = "config"
 +++

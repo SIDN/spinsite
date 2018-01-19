@@ -5,7 +5,8 @@
 ##################################################################
 copyright = "SIDN Labs"
 
-theme = "docdock"
+#theme = "docdock"
+theme = "hugo-theme-learn"
 # default themes/ dir will be used, no special one required
 # themesdir = "../.."
 
@@ -24,7 +25,7 @@ DefaultContentLanguage = "en"
     weight = 1
     title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
     [[languages.en.menu.shortcuts]]
-      pre = "<h3>More</h3>"	
+#      pre = "<h3>More</h3>"	
       name = "<i class='fa fa-github'></i> Github repo"
       identifier = "ds"
       url = "https://github.com/sidn/spin"
@@ -35,7 +36,7 @@ DefaultContentLanguage = "en"
     weight = 2
     title = "SPIN Security and Privacy for Inhome Networks door SIDN Labs"
     [[languages.nl.menu.shortcuts]]
-      pre = "<h3>Meer</h3>"
+#      pre = "<h3>Meer</h3>"
       name = "<i class='fa fa-github'></i> Github repo"
       identifier = "ds"
       url = "https://github.com/sidn/spin"

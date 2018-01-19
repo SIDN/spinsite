@@ -1,6 +1,6 @@
 +++
 title = "Getting started"
-description = ""
+description = "Getting started with SPIN"
 weight = 1
 alwaysopen = false
 +++

@@ -1,5 +1,6 @@
 +++
 title = "Configuration"
+description = "Configuration of SPIN"
 weight = 2
 slug = "config"
 +++

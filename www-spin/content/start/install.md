@@ -1,5 +1,6 @@
 +++
 title = "Installation"
+description = "Installation of SPIN"
 weight = 1
 slug = "install"
 +++

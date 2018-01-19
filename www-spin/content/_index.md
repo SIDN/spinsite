@@ -1,5 +1,6 @@
 +++
-title= "SPIN by SIDN Labs"
+title = "SPIN by SIDN Labs"
+description = "Welcome page SPIN"
 +++
 
 # Welcome to SPIN!
