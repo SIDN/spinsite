@@ -1,0 +1,3 @@
+[submodule "www-spin/themes/docdock"]
+	path = www-spin/themes/docdock
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
