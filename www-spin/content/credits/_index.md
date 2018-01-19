@@ -10,9 +10,9 @@ description = "contributors to SPIN"
 ### Other contributors
 <div class="ghContributors">
     <div>
-      <img src="https://avatars0.githubusercontent.com/u/1679693?s=460&v=4" class="inline" width="32" height="32" style="height: 32px;height: 32px;margin-bottom:.25em; vertical-align:middle; ">
-      <label>@<a href="https://github.com/ElmerLastdrager">ElmerLastdrager</a></label>
-      <span class="contributions">supports and advices</span>
+      <img src="https://pbs.twimg.com/profile_images/668515491720237056/QDjQ_jYL_400x400.jpg" class="inline" width="32" height="32" style="height: 32px;height: 32px;margin-bottom:.25em; vertical-align:middle; ">
+      <label><i class='fa fa-twitter'></i><a href="https://twitter.com/hesselma">Cristian Hesselman</a></label>
+      <span class="contributions">advise and procesmanagement</span>
     </div>
 </div>
 
