@@ -10,5 +10,15 @@ author = "Marco"
 A notice disclaimer
 {{% /notice %}}
 
-Work in progress - please come back later!
+Work in progress - please come back later! :smile:
+
+{{% children description="true" depth="999" showhidden="true"  %}}
+
+{{<mermaid align="left">}}
+graph LR;
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+{{< /mermaid >}}
 

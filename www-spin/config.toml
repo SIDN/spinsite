@@ -1,6 +1,7 @@
 ###################################################################
 #
 # https://spin.sidnlabs.nl/ config.joml
+# https://gohugo.io/getting-started/configuration/
 #
 ##################################################################
 copyright = "SIDN Labs"
@@ -20,7 +21,7 @@ DefaultContentLanguage = "en"
 # https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    languageName = "🇬🇧  / English"
+    languageName = "🇬🇧  / Englsh"
     languageCode = "en-US"
     weight = 1
     title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
@@ -45,17 +46,36 @@ DefaultContentLanguage = "en"
 [params]
   editURL = "https://github.com/SIDN/spinsite/tree/master/www-spin/content/"
   showVisitedLinks = true # default is false
+  # flex is docdock specific
   themeStyle = "original" # "original" or "flex" # default "original"
-  themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+  # red is hugo-theme-learn specific
+  # See https://themes.gohugo.io/theme/hugo-theme-learn/en/basics/style-customization/
+  themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
   ordersectionsby = "weight" # ordersectionsby = "title"
   disableHomeIcon = false # default is false
   disableSearch = false # default is false
   disableNavChevron = false # set true to hide next/prev chevron, default is false
   author = "Marco Davids"
+  enableRobotsTXT = true
+  # TODO: what is this?
+  enableGitInfo = false
+#  disable404 = true
+  # See emoji-cheat-sheet.com
+  enableEmoji = true
+  enableMissingTranslationPlaceholders = true
 
 # Activate search
+
+# TODO: what does this do?
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
 
 #[permalinks]
 #  post = "/:year/:month/:title/"
+
+# Some additional params from the hugo-theme-learn theme:
+# https://themes.gohugo.io/theme/hugo-theme-learn/en/basics/configuration/

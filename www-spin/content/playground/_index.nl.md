@@ -10,4 +10,15 @@ author = "Marco"
 Een informatieve disclaimer
 {{% /notice %}}
 
-Werk in uitvoering - kom aub later terug!
+Werk in uitvoering - kom aub later terug! :smile:
+
+{{% children description="true" depth="999" showhidden="true"  %}}
+
+{{<mermaid align="left">}}
+graph LR;
+    A[Harde rand] -->|Verbinding tekst| B(Ronde rand)
+    B --> C{Beslissing}
+    C -->|Een| D[Resultaar een]
+    C -->|Twee| E[Resultaat twee]
+{{< /mermaid >}}
+
