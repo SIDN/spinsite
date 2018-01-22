@@ -1,8 +1,7 @@
 +++
 title = "Credits"
 description = "contributors to SPIN"
-pre = "<b>X. </b>"
-chapter = true
+pre = "<i class='fa fa-bullhorn'></i>"
 +++
 
 

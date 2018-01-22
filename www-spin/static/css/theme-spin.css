@@ -28,6 +28,7 @@
 
 body {
     color: var(--MAIN-TEXT-color) !important;
+    background-color: var(--MENU-HEADER-BG-color) !important; /* Original CSS does not have this*/
 }
 
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
@@ -48,7 +49,7 @@ a {
 }
 
 a:hover {
-    color: var(--MAIN-LINK-HOVER-color);
+    color: var(--MAIN-LINK-HOVER-color); /* Fix by us, see https://github.com/matcornic/hugo-theme-learn/issues/111 */
 }
 
 #sidebar ul li.visited > a .read-icon {
@@ -64,7 +65,7 @@ a:hover {
     -moz-transition: width 0.5s ease;
     -ms-transition: width 0.5s ease;
     transition: width 0.5s ease;
-    background-color: var(--MAIN-HOVER-color);
+    background-color: var(--MAIN-LINK-HOVER-color);
 }
 #sidebar {
 	background-color: var(--MENU-SECTIONS-BG-color);
@@ -75,7 +76,7 @@ a:hover {
     border-color: var(--MENU-HEADER-BORDER-color);
 }
 #sidebar .searchbox {
-	border-color: var(--MENU-SEARCH-BOX-color);
+    border-color: var(--MENU-SEARCH-BOX-color);
     background: var(--MENU-SEARCH-BG-color);
 }
 #sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {

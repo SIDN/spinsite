@@ -52,8 +52,6 @@ enableMissingTranslationPlaceholders = true
       url = "/"
       weight = 20
 
-
-
 [params]
   # [params] will populate the .Site.Params variable for use in templates
   ####################################################################################### 
@@ -64,7 +62,7 @@ enableMissingTranslationPlaceholders = true
   #######################################################################################
   # hugo-theme-docdock specific options
   #######################################################################################
-      # themeStyle = "original" # "original" or "flex" # default "original"
+      # ??? themeStyle = "original" # "original" or "flex" # default "original"
       # disableHomeIcon = false # default is false
       # disableSearch = false # default is false
       # disableNavChevron = false # set true to hide next/prev chevron, default is false
@@ -72,13 +70,13 @@ enableMissingTranslationPlaceholders = true
   #######################################################################################
   # hugo-theme-learn specific options
   #######################################################################################
-      themeVariant = "spin" # choose theme variant "green", "gold" , "gray", "blue" (default)
       # disableShortcutsTitle = false
       # disableInlineCopyToClipBoard = false
       # disableAssetsBusting = false
   #######################################################################################
   # hugo-theme-learn & hugo-theme-docdock common options
   #######################################################################################
+      themeVariant = "spin" # choose theme variant "green", "red", "blue, or: spin ;-)"
       author = "Marco Davids"
       description = "SPIN project website"
       ordersectionsby = "weight" # ordersectionsby = "title"

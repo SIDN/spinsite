@@ -10,3 +10,6 @@
 * Better home-button positioning
 * check for slug-settings and the proper working of it
 * rm *~ prior to publication
+* ~~~Dynamic line under links is missing - issue seems to be in theme-[red,blue,green,spin]css~~~
+** See https://github.com/matcornic/hugo-theme-learn/issues/111
+
