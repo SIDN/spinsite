@@ -4,10 +4,10 @@ description = "Welkomspagina SPIN"
 +++
 
 # Welkom bij SPIN!
-[SIDN Labs SPIN {{%icon fa-github%}}](https://github.com/sidn/spin) is [todo],
+[SIDN Labs SPIN <i class='fa fa-github'></i>](https://github.com/sidn/spin) is [todo],
 made by SIDN Labs.
 
-{{%panel%}}SPIN is open source.{{%/panel%}}
+{{% notice info %}}SPIN is open source.{{% /notice %}}
 
 ## Belangrijkste eigenschappen
 

@@ -4,24 +4,29 @@
 # https://gohugo.io/getting-started/configuration/
 #
 ##################################################################
-copyright = "SIDN Labs"
 
-#theme = "docdock"
+#theme = "hugo-theme-docdock"
 theme = "hugo-theme-learn"
 # default themes/ dir will be used, no special one required
 # themesdir = "../.."
 
+enableRobotsTXT = true
+enableGitInfo = false
+# disable404 = true
+# See emoji-cheat-sheet.com
+enableEmoji = true
+
 baseURL = "https://spin.sidnlabs.nl/"
 
 DefaultContentLanguage = "en"
+enableMissingTranslationPlaceholders = true
 # perhaps useful when we do _index.en.md doen instead of _index.md
 # (which was problematic for other reasons, possibly a theme bug)
 #defaultContentLanguageInSubdir = true
 
-# https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    languageName = "🇬🇧  / Englsh"
+    languageName = "🇬🇧 / English"
     languageCode = "en-US"
     weight = 1
     title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
@@ -43,39 +48,47 @@ DefaultContentLanguage = "en"
       url = "https://github.com/sidn/spin"
       weight = 10
 
-[params]
-  editURL = "https://github.com/SIDN/spinsite/tree/master/www-spin/content/"
-  showVisitedLinks = true # default is false
-  # flex is docdock specific
-  themeStyle = "original" # "original" or "flex" # default "original"
-  # red is hugo-theme-learn specific
-  # See https://themes.gohugo.io/theme/hugo-theme-learn/en/basics/style-customization/
-  themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
-  ordersectionsby = "weight" # ordersectionsby = "title"
-  disableHomeIcon = false # default is false
-  disableSearch = false # default is false
-  disableNavChevron = false # set true to hide next/prev chevron, default is false
-  author = "Marco Davids"
-  enableRobotsTXT = true
-  # TODO: what is this?
-  enableGitInfo = false
-#  disable404 = true
-  # See emoji-cheat-sheet.com
-  enableEmoji = true
-  enableMissingTranslationPlaceholders = true
 
-# Activate search
+
+[params]
+  # [params] will populate the .Site.Params variable for use in templates
+  ####################################################################################### 
+  # Hugo global configuration options"
+  #######################################################################################
+      # None
+      #
+  #######################################################################################
+  # hugo-theme-docdock specific options
+  #######################################################################################
+      # themeStyle = "original" # "original" or "flex" # default "original"
+      # disableHomeIcon = false # default is false
+      # disableSearch = false # default is false
+      # disableNavChevron = false # set true to hide next/prev chevron, default is false
+      # highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+  #######################################################################################
+  # hugo-theme-learn specific options
+  #######################################################################################
+      themeVariant = "spin" # choose theme variant "green", "gold" , "gray", "blue" (default)
+      # disableShortcutsTitle = false
+      # disableInlineCopyToClipBoard = false
+      # disableAssetsBusting = false
+  #######################################################################################
+  # hugo-theme-learn & hugo-theme-docdock common options
+  #######################################################################################
+      author = "Marco Davids"
+      description = "SPIN project website"
+      ordersectionsby = "weight" # ordersectionsby = "title"
+      # Shows  'Edit this page' option next to breadcrums
+      #editURL = "https://github.com/SIDN/spinsite/tree/master/www-spin/content/"  
+      showVisitedLinks = true # default is false
+      disableLanguageSwitchingButton = false
+      # disableSearch = false
 
 # TODO: what does this do?
 [taxonomies]
   category = "categories"
   tag = "tags"
 
+# Activate search - TODO: required for hugo-theme-learn?
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
-
-#[permalinks]
-#  post = "/:year/:month/:title/"
-
-# Some additional params from the hugo-theme-learn theme:
-# https://themes.gohugo.io/theme/hugo-theme-learn/en/basics/configuration/

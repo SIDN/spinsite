@@ -1,26 +1,8 @@
-[create-header-md]
-other = "Maak een _header.md om dit aan te passen"
-
-[create-footer-md]
-other = "Maak een content/_footer.md bestand om de 'footer' teksten aan te passen"
-
 [Search-placeholder]
 other = "Zoeken..."
 
 [Clear-History]
 other = "Geschiedenis Wissen"
-
-[Page]
-other = "Pagina"
-
-[Next-Pages]
-other = "Volgende Pagina"
-
-[Previous-Pages]
-other = "Vorige Paginas"
-
-[pagination-on]
-other = "van"
 
 [Attachments-label]
 other = "Bijlagen"
@@ -29,13 +11,16 @@ other = "Bijlagen"
 other = "Fout"
 
 [message-404]
-other = "Oeps. Lijkt erop dat deze pagina niet bestaat."
+other = "Oeps. Lijkt erop dat deze pagina niet bestaat ¯\\_(ツ)_/¯."
 
 [Go-to-homepage]
 other = "Ga naar beginpagina"
 
 [Edit-this-page]
-other = "Pagina bewerken"
+other = "Bewerk deze pagina"
+
+[Shortcuts-Title]
+other = "Meer"
 
 [Expand-title]
-other = "Verruim mij..."
+other = "Klap mij uit..."

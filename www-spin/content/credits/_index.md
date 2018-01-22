@@ -1,6 +1,8 @@
 +++
 title = "Credits"
 description = "contributors to SPIN"
+pre = "<b>X. </b>"
+chapter = true
 +++
 
 

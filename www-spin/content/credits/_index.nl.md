@@ -1,6 +1,8 @@
 +++
 title = "Kudos"
 description = "Bijdragers SPIN"
+pre = "<b>X. </b>"
+chapter = true
 +++
 
 

@@ -1,6 +1,9 @@
 #!/bin/bash
 
-echo "Hugo it..."
+# Clean old stuff
+rm -rf public/*
+
+# Hugo it
 cd www-spin
 /usr/local/bin/hugo
 

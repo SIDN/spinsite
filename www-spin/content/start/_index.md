@@ -3,6 +3,8 @@ title = "Getting started"
 description = "Getting started with SPIN"
 weight = 1
 alwaysopen = false
+pre = "<b>1. </b>"
+chapter = true
 +++
 
 ## Requirements

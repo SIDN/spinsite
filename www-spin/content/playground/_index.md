@@ -4,6 +4,8 @@ draft = true
 description = "This is our area for testing, not to be incorporated in the final website"
 date = "2018-01-19"
 author = "Marco"
+pre = "<b>X. </b>"
+chapter = true
 +++
 
 {{% notice note %}}

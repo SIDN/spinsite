@@ -5,7 +5,7 @@ weight = 1
 slug = "install"
 +++
 
-{{% alert theme="warning" %}}SPIN is experimental code and usage comes without warranty and without liability. Use at own risk.{{%/alert%}}
+{{% notice warning %}}SPIN is experimental code and usage comes without warranty and without liability. Use at own risk.{{% /notice %}}
 
 The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you to train by following this [great documentation for beginners](https://gohugo.io/overview/quickstart/).
 <!--more-->
@@ -72,7 +72,7 @@ $ git clone https://github.com/vjeantet/hugo-theme-docdock.git themes/docdock
 
 ### 3. Install DocDock from ZIP
 
-All files from theme will be tracked inside parent repo, to update it, have to override files in theme. [{{%icon download%}} download following zip](https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip) and extract inside `themes/`.
+All files from theme will be tracked inside parent repo, to update it, have to override files in theme. [<i class='fa fa-download'></i> download following zip](https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip) and extract inside `themes/`.
 
 ```
 https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip

@@ -1,5 +1,5 @@
-[submodule "www-spin/themes/docdock"]
-	path = www-spin/themes/docdock
+[submodule "www-spin/themes/hugo-theme-docdock"]
+	path = www-spin/themes/hugo-theme-docdock
 	url = https://github.com/vjeantet/hugo-theme-docdock.git
 [submodule "www-spin/themes/hugo-theme-learn"]
 	path = www-spin/themes/hugo-theme-learn

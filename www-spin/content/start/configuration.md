@@ -24,18 +24,12 @@ Comment out following line, so default `themes/` will be used:
 # themesdir = "../.."
 ```
 
-
-{{%excerpt%}}
-## Activate search
-
 If not already present, add the follow lines to the `config.toml` file.
 
 ```toml
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 ```
-{{% /excerpt%}}
-
 
 LUNRJS search index file will be generated on content changes.
 
