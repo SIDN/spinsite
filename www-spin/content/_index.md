@@ -19,6 +19,11 @@ SPIN is open source.
 * [TODO]
 * [TODO]
 
+Press on the chevrons (<i class='fa fa-chevron-left'></i> and
+<i class='fa fa-chevron-right'></i>) to navigate to next or previous section, or use the
+navigation menu ([TODO: fix]<i class='fa fa-menu-hamburger'></i> on small screens to
+open) for that.
+
 {{% notice note %}}
 Work in progress - please come back later!
 {{% /notice %}}

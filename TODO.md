@@ -12,4 +12,4 @@
 * rm *~ prior to publication
 * ~~~Dynamic line under links is missing - issue seems to be in theme-[red,blue,green,spin]css~~~
   * See https://github.com/matcornic/hugo-theme-learn/issues/111
-
+* On small screens the menu-hamburger says 'navigation' in english, should be multilingual
