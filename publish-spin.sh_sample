@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "Hugo it..."
+cd www-spin
+/usr/local/bin/hugo
+
+# Manual fixes might be placed here
+# note: no fixes needed for now
+
+echo "Rsync it..."
+rsync -avh --delete --progress public -e "/usr/bin/ssh -p 22" user@vhost.example.nl:/var/www-spin/
+
+exit 0
