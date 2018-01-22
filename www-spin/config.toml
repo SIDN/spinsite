@@ -31,22 +31,26 @@ enableMissingTranslationPlaceholders = true
     weight = 1
     title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
     [[languages.en.menu.shortcuts]]
-#      pre = "<h3>More</h3>"	
       name = "<i class='fa fa-github'></i> Github repo"
-#      identifier = "github"
       url = "https://github.com/sidn/spin"
       weight = 10
+    [[languages.en.menu.shortcuts]]
+      name = "<i class='fa fa-home'></i> Home"
+      url = "/"
+      weight = 20
   [languages.nl]
     languageName = "🇳🇱  / Nederlands"
     languageCode = "nl-NL"
     weight = 2
     title = "SPIN Security and Privacy for Inhome Networks door SIDN Labs"
     [[languages.nl.menu.shortcuts]]
-#      pre = "<h3>Meer</h3>"
       name = "<i class='fa fa-github'></i> Github repo"
-#      identifier = "github"
       url = "https://github.com/sidn/spin"
       weight = 10
+    [[languages.nl.menu.shortcuts]]
+      name = "<i class='fa fa-home'></i> Begin"
+      url = "/"
+      weight = 20
 
 
 
