@@ -22,9 +22,9 @@ baseURL = "https://spin.sidnlabs.nl/"
 
 DefaultContentLanguage = "en"
 enableMissingTranslationPlaceholders = true
-# perhaps useful when we do _index.en.md doen instead of _index.md
+# perhaps useful when we do _index.en.md instead of _index.md
 # (which was problematic for other reasons, possibly a theme bug)
-#defaultContentLanguageInSubdir = true
+# defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.en]
