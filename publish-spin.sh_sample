@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Clean old stuff
+# Clean old stuff - if you like
 rm -rf public/*
 
 # Hugo it
@@ -8,7 +8,11 @@ cd www-spin
 /usr/local/bin/hugo
 
 # Manual fixes might be placed here
-# note: no fixes needed for now
+#echo "ErrorDocument 404     /404.html" > public/.htaccess
+#echo "ErrorDocument 404     /nl/404.html" > public/nl/.htaccess
+#echo "ErrorDocument 404     /404.html" > public/en/.htaccess
+#rm public/index.html
+#cp ../index.php public/
 
 echo "Rsync it..."
 rsync -avh --delete --progress public -e "/usr/bin/ssh -p 22" user@vhost.example.nl:/var/www-spin/
