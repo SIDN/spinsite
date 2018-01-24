@@ -10,7 +10,7 @@ Changes in our menu.html:
 In order to make this work, we als added an 'sidebar .select-style' in our own theme-spin.css.
 
 Also done, but submitted as pull request:
-* &lt;li class="" role=""&gt; to &lt;li&gt;
+* "&lt;li class="" role=""&gt;" to just "&lt;li&gt;" (class has no use and an empty role is invalid)
 * https://github.com/matcornic/hugo-theme-learn/pull/121
 
 
