@@ -21,7 +21,7 @@
   * https://html5.validator.nu/
   * Number of fixes applied, some left as they are for now (such as nested p elements, because most browser handle that well)
 * Make own version of meta.html with more stuff?
-* Fix console error regarding X-Frame-options:
-  * Refused to display 'https://spin.sidnlabs.nl/en/#href=https%3A%2F%2Fgithub.com%2Fsidn%2Fspin&aria-label=Star%20sidn%2Fspin%20on%20GitHub&data-icon=octicon-star&data-text=Star&data-show-count=true' in a frame because it set 'X-Frame-Options' to 'deny'.
+* ~~Fix console error regarding X-Frame-options:~~
+  * could not be reproduced
 * ~~Cancel hugo-theme-docdoc, we have completely and definitely switched to hugo-theme-learn~~
 

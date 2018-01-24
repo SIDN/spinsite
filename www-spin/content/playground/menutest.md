@@ -5,13 +5,6 @@ draft = true
 
 Notice there is no Dutch version, so the language menu is now limited.
 
-This might also explain the issue with 404.
-
-{{%panel%}}Only works in docdock theme, not in learn theme{{%/panel%}}
-
-<i class='fa fa-bullhorn'></i>Works, but the icon-trick below only works in docdock:
-{{%icon fa-github%}} blah...
-
 1. Lorem ipsum dolor sit amet
 1. Consectetur adipiscing elit
 1. Integer molestie lorem at massa
