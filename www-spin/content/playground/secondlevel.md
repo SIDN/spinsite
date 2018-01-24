@@ -1,9 +1,15 @@
 +++
 title =  "Secondlevel"
 draft = true
+date        = "2013-06-21T11:27:27-04:00"
+description = "Yet another description"
+tags        = [ "Development", "Go", "profiling" ]
+topics      = [ "Development", "Go" ]
+slug        = "nitro"
+project_url = "https://github.com/spf13/nitro"
 +++
 
-secondlevel.md
+secondlevel.md \o/
 
 * <i class="fa fa-language"></i> Taal
 * <i class="fa fa-fw fa-language"></i> Taal 2
