@@ -24,4 +24,8 @@
 * ~~Fix console error regarding X-Frame-options:~~
   * could not be reproduced
 * ~~Cancel hugo-theme-docdoc, we have completely and definitely switched to hugo-theme-learn~~
+* Check in different browsers
+  * Language arrow down svg looks ugly in Firefox (change into fontawesome?)
+    * Does not do the trick - needs further investigation
+
 
