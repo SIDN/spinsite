@@ -5,7 +5,7 @@
 #
 ##################################################################
 
-Copyright= "© 2018 by SIDN."
+Copyright= "© 2018 SIDN."
 
 #theme = "hugo-theme-docdock"
 theme = "hugo-theme-learn"

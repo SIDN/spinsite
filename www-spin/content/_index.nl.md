@@ -11,7 +11,7 @@ Werk in uitvoering - kom a.u.b. later terug!
 
 {{% notice info %}}
 Druk de navigatie-knoppen (<i class='fa fa-chevron-left'></i> en
-</i></i><i class='fa fa-chevron-right'></i>) om naar het volgende of vorige onderdeel te gaan, of
+<i class='fa fa-chevron-right'></i>) om naar het volgende of vorige onderdeel te gaan, of
 gebruik daarvoor het navigatie menu links. Op kleinere schermen is deze te vinden
 onder de <i class="fa fa-bars"></i>-knop.
 {{% /notice %}}

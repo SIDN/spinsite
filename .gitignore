@@ -8,7 +8,7 @@
 /www-spin/public/
 
 # Themes
-/www-spin/themes/
+/www-spin/themes/*
 
 # Ook al in .git/info/exclude gezet
 .DS_Store

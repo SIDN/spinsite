@@ -12,15 +12,14 @@ Work in progress - please come back later!
 {{% notice info %}}
 Press on the chevrons (<i class='fa fa-chevron-left'></i> and
 <i class='fa fa-chevron-right'></i>) to navigate to next or previous section, or use the
-navigation menu on the left. On smaller screens this menu can be found beneath the <i class="fa
-fa-bars"></i>-button.
+navigation menu on the left. On smaller screens this menu can be found beneath the
+<i class='fa fa-bars'></i>-button.
 {{% /notice %}}
 
 ## TODO or leave out
 
 * [TODO]
 * [TODO]
-
 
 {{% notice note %}}
 Work in progress - please come back later!

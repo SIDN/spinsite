@@ -1,4 +1,3 @@
-
 :root{
     
     --MAIN-TEXT-color: #323232; /* Color of text by default */
@@ -52,10 +51,6 @@ a:hover {
     color: var(--MAIN-LINK-HOVER-color);
 }
 
-#sidebar ul li.visited > a .read-icon {
-	color: var(--MENU-VISITED-color);
-}
-
 #body a.highlight:after {
     display: block;
     content: "";
@@ -67,17 +62,36 @@ a:hover {
     transition: width 0.5s ease;
     background-color: var(--MAIN-LINK-HOVER-color);  /* Fix by us, see https://github.com/matcornic/hugo-theme-learn/issues/111 */
 }
-#sidebar {
-	background-color: var(--MENU-SECTIONS-BG-color);
+
+#footer { /* on top of the theme.css #footer we add center, to avoid the obsolete <center> element */
+    text-align: center;
 }
-#sidebar #header-wrapper {
+
+#sidebar {
+    background-color: var(--MENU-SECTIONS-BG-color);
+    color: var(--MENU-SECTIONS-LINK-color);
+    /* Above is fix by us, to get the language select color right,
+       without needing the a element
+    */
+
+}#sidebar #header-wrapper {
     background: var(--MENU-HEADER-BG-color);
     color: var(--MENU-SEARCH-BOX-color);
     border-color: var(--MENU-HEADER-BORDER-color);
 }
+
+#sidebar .select-style { /* Added by us */
+    padding: 0 1rem; /* Analogous to #sidebare a.padding class */
+    width: 165px; /* Overrule hugo-theme.css .select-style 150px, to make 'Netherlands' fit */
+}
+
 #sidebar .searchbox {
     border-color: var(--MENU-SEARCH-BOX-color);
     background: var(--MENU-SEARCH-BG-color);
+}
+
+#sidebar ul li.visited > a .read-icon {
+    color: var(--MENU-VISITED-color);
 }
 #sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
     background: var(--MENU-SECTIONS-ACTIVE-BG-color);
@@ -85,7 +99,6 @@ a:hover {
 #sidebar .searchbox * {
     color: var(--MENU-SEARCH-BOX-ICONS-color);
 }
-
 #sidebar a {
     color: var(--MENU-SECTIONS-LINK-color);
 }
@@ -102,4 +115,3 @@ a:hover {
 #sidebar hr {
     border-color: var(--MENU-SECTION-HR-color);
 }
-
