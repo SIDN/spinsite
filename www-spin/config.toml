@@ -24,7 +24,7 @@ DefaultContentLanguage = "en"
 enableMissingTranslationPlaceholders = true
 # perhaps useful when we do _index.en.md instead of _index.md
 # (which was problematic for other reasons, possibly a theme bug)
-# defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.en]
@@ -84,7 +84,7 @@ enableMissingTranslationPlaceholders = true
       ordersectionsby = "weight" # ordersectionsby = "title"
       # Shows  'Edit this page' option next to breadcrums
       #editURL = "https://github.com/SIDN/spinsite/tree/master/www-spin/content/"  
-      showVisitedLinks = true # default is false
+      showVisitedLinks = true # default is false - will then also remove 'Clear history'
       disableLanguageSwitchingButton = false
       # disableSearch = false
 
