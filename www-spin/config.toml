@@ -7,7 +7,6 @@
 
 Copyright= "© 2018 SIDN."
 
-#theme = "hugo-theme-docdock"
 theme = "hugo-theme-learn"
 # default themes/ dir will be used, no special one required
 # themesdir = "../.."
