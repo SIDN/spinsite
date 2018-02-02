@@ -1,6 +1,6 @@
 +++
 title = "Credits"
-description = "contributors to SPIN"
+description = "Contributors to SPIN"
 pre = "<i class='fa fa-bullhorn'></i> "
 +++
 

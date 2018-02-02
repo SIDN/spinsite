@@ -1,7 +1,7 @@
 +++
 title = "Secondlevel"
 draft = true
-description = "This is our area for testing, not to be incorporated in the final website"
+description = "This is our secondlevel area for testing"
 date = "2018-01-19"
 author = "Marco"
 +++

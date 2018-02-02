@@ -1,6 +1,9 @@
----
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-draft: true
----
++++
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }}
+lastmod = {{ .Date }}
+description = "No description yet"
+keywords = ""
+draft = false
++++
 

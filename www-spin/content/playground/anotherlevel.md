@@ -1,5 +1,10 @@
 +++
 title =  "Anotherlevel"
+description = "Yet another level"
+tags = [ "a", "b", "c" ]
+tags_weight = 22
+categories = ["d"]
+categories_weight = 44
 draft = true
 +++
 

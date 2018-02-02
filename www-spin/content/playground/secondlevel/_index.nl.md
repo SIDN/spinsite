@@ -1,7 +1,7 @@
 +++
 title = "Tweedeniveau"
 draft = true
-description = "Dit is ons testgebied, niet bedoeld om te worden opgenomen in de uiteindelijke website"
+description = "Dit is ons tweedeniveau testgebied"
 date = "2018-01-19"
 author = "Marco"
 +++
