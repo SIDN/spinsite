@@ -1,6 +1,7 @@
 +++
 title = "SPIN by SIDN Labs"
 description = "Welkomspagina SPIN"
+chapter = true
 +++
 
 # SPIN Documentatie
