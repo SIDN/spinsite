@@ -13,10 +13,6 @@ gebruik daarvoor het navigatie menu links. Op kleinere schermen is deze te vinde
 onder de <i class="fa fa-bars"></i>-knop. Er is ook ene optie om de taal te veranderen naar het Engels.
 {{% /notice %}}
 
-### Inhoudsopgave
----
-{{% children description="true"   %}}
-
 {{% notice note %}}
 Werk in uitvoering - kom a.u.b. later terug!
 {{% /notice %}}

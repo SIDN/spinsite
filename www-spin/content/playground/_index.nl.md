@@ -4,7 +4,6 @@ draft = true
 description = "Dit is ons testgebied, niet bedoeld om te worden opgenomen in de uiteindelijke website"
 date = "2018-01-19"
 author = "Marco"
-pre = "<b>X. </b>"
 chapter = true
 +++
 
@@ -14,8 +13,6 @@ Een informatieve disclaimer
 
 Werk in uitvoering - kom aub later terug! :smile:
 
-{{% children description="true" depth="999" showhidden="true"  %}}
-
 {{<mermaid align="left">}}
 graph LR;
     A[Harde rand] -->|Verbinding tekst| B(Ronde rand)
@@ -24,3 +21,6 @@ graph LR;
     C -->|Twee| E[Resultaat twee]
 {{< /mermaid >}}
 
+### Inhoudsopgave
+---
+{{% children description="true"   %}}

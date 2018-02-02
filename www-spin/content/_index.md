@@ -1,6 +1,7 @@
 +++
 title = "SPIN by SIDN Labs"
 description = "Welcome page SPIN"
+chapter = true
 +++
 
 # SPIN Documentation
@@ -12,10 +13,6 @@ Press on the chevrons (<i class='fa fa-chevron-left'></i> and
 navigation menu on the left. On smaller screens this menu can be found beneath the
 <i class='fa fa-bars'></i>-button. There is also an option to change the language into Dutch.
 {{% /notice %}}
-
-### Table of contents
----
-{{% children description="true"   %}}
 
 {{% notice note %}}
 Work in progress - please come back later!
