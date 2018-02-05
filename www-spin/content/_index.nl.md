@@ -5,7 +5,16 @@ chapter = true
 +++
 
 # SPIN Documentatie
-SPIN is een referentieplatform voor veilige en privacy-vriendelijke IoT-thuisnetwerken. Het is open source, gemaakt door [SIDN Labs](https://www.sidnlabs.nl "Bezoek onze website") and vrij beschikbaar [hier op Github <i class='fa fa-github'></i>](https://github.com/sidn/spin). 
+SPIN is een referentie-softwareplatform voor veilige en privacy-vriendelijke 
+IoT-thuisnetwerken. Het is open source, gemaakt door 
+[SIDN Labs](https://www.sidnlabs.nl "Bezoek onze website") die vrij beschikbaar 
+is [op Github <i class='fa fa-github'></i>](https://github.com/sidn/spin). 
+Deze site [legt uit wat SPIN is]({{< relref "/about/_index.md" >}}), hoe je 
+het zelf [aan de praat kunt krijgen]({{< relref "/getit/_index.md" >}}), 
+hoe de [software werkt]({{< relref "/usage/_index.md" >}}) en hoe je zelf 
+kunt [bijdragen aan de doorontwikkeling]({{< relref "/contrib/_index.md" >}}) van SPIN.
+
+![SPINarch](/images/SPIN_Concept.png "SPIN concept")
 
 {{% notice info %}}
 Druk de navigatie-knoppen (<i class='fa fa-chevron-left'></i> en
@@ -15,5 +24,5 @@ onder de <i class="fa fa-bars"></i>-knop. Er is ook ene optie om de taal te vera
 {{% /notice %}}
 
 {{% notice note %}}
-Werk in uitvoering - kom a.u.b. later terug!
+Deze website is werk in uitvoering - kom a.u.b. later terug!
 {{% /notice %}}

@@ -1,7 +1,7 @@
 +++
-title = "1.1 Grondbeginselen"
+title = "1.2 Grondbeginselen van SPIN"
 description = "SPIN grondbeginselen"
-weight = 11
+weight = 12
 chapter = false
 +++
 

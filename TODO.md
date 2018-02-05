@@ -27,5 +27,4 @@
 * Check in different browsers
   * Language arrow down svg looks ugly in Firefox (change into fontawesome?)
     * Does not do the trick - needs further investigation
-
-
+* Colors in the left menu seem wrong, the part just below the line under the search-field has a different color.

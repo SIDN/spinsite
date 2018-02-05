@@ -5,7 +5,15 @@ chapter = true
 +++
 
 # SPIN Documentation
-SPIN is a reference platform for secure and privacy-enabled IoT home networks. It is open source, made by [SIDN Labs](https://www.sidnlabs.nl/index?language_id=2 "Visit our website") and freely availble [here on Github <i class='fa fa-github'></i>](https://github.com/sidn/spin). 
+SPIN is a reference softwareplatform for secure and privacy-enabled IoT home networks. 
+It is open source, made by [SIDN Labs](https://www.sidnlabs.nl/index?language_id=2 "Visit our website") 
+and freely available [on Github <i class='fa fa-github'></i>](https://github.com/sidn/spin). 
+This site explains what SPIN is [about]({{< relref "/about/_index.md" >}}), 
+how to [obtain]({{< relref "/getit/_index.md" >}}) the software and get it running, 
+how to [use]({{< relref "/usage/_index.md" >}}) the SPIN software and how you 
+can [contribute]({{< relref "/contribute/_index.md" >}}) to the further development of SPIN.
+
+![SPINarch](/images/SPIN_Concept.png "SPIN concept")
 
 {{% notice info %}}
 Press on the chevrons (<i class='fa fa-chevron-left'></i> and
@@ -15,5 +23,5 @@ navigation menu on the left. On smaller screens this menu can be found beneath t
 {{% /notice %}}
 
 {{% notice note %}}
-Work in progress - please come back later!
+This website is work in progress - please come back later!
 {{% /notice %}}

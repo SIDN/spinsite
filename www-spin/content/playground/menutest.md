@@ -38,3 +38,12 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {{% /expand%}}
+
+[anchor test]({{< relref "playground/secondlevel.md#another-anchor" >}})
+
+or with percentsymbols...?
+
+[anchor test]({{% relref "playground/secondlevel.md#another-anchor" %}})
+
+In any case, please make sure the relref is correct, in this case for
+example 'playground/nitro/#another-anchor' would be wrong.
