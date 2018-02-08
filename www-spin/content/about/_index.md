@@ -13,7 +13,7 @@ chapter = true
 This chapters describes some of the problems with IoT in a home environment and the approach
 that SPIN takes in order to deal with this.
 
-![miraisource](/images/source-code-hacks-iot-devices-to-build-ddos-army.jpg "Mirai source")
+![SPINarch](/images/SPIN_Concept.png "SPIN concept")
 
 {{%expand "Disclaimer (click to expand):" %}}
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

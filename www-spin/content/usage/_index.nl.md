@@ -10,4 +10,4 @@ chapter = true
 
 # SPIN gebruiken
 
-Dit is SPIN.
+![spinwebgui](/images/spin-gui.png "SPIN webgui")

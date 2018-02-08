@@ -6,9 +6,16 @@ chapter = false
 +++
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Security and privacy in the IoT
+While it is anticipated that the [IoT <i class='fa fa-link'></i>](https://en.wikipedia.org/wiki/Internet_of_things) will enable all kinds of new services that will help us in our daily lives, it also poses a security threat because IoT devices are often insecure. This is particularly true for home networks where manufacturers tend to have little interest in securing their products and responsible management by consumers can be a challenge due to a lack of sufficient skills als tools. As a result, security and privacy are at stake.
+
+## Major security risks
+Vulnerable IoT devices pose two major types of threat. 
+
+1. First of all, they’re a threat to the internet as a global communications infrastructure, because insecure IoT devices can become part of massive DDoS attacks. 
+1. The second threat from insecure IoT devices is that they jeopardise the security, privacy, and perhaps even safety of end-users. 
+
+More about this can be found on [the SIDN Labs site <i class='fa fa-link'></i>](https://www.sidnlabs.nl/index?language_id=2).
+
+
+

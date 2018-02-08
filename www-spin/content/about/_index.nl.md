@@ -13,7 +13,7 @@ chapter = true
 Dit hoofdstuk beschrijft enkele problemen in relatie tot IoT in thuis-netwerkomgevingen
 en de benadering die SPIN heeft gekozen teneinde hier wat tegen te doen.
 
-![miraibron](/images/source-code-hacks-iot-devices-to-build-ddos-army.jpg "Mirai broncode")
+![SPINarch](/images/SPIN_Concept.png "SPIN concept")
 
 {{%expand "Aansprakelijkheidsuitsluiting (klik om uit te klappen):" %}}
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

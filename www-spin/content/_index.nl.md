@@ -6,15 +6,15 @@ chapter = true
 
 # SPIN Documentatie
 SPIN is een referentie-softwareplatform voor veilige en privacy-vriendelijke 
-IoT-thuisnetwerken. Het is open source, gemaakt door 
-[SIDN Labs](https://www.sidnlabs.nl "Bezoek onze website") die vrij beschikbaar 
+IoT-thuisnetwerken. Het is open source software, gemaakt door 
+[SIDN Labs](https://www.sidnlabs.nl "Bezoek onze website"), die vrijelijk beschikbaar 
 is [op Github <i class='fa fa-github'></i>](https://github.com/sidn/spin). 
 Deze site [legt uit wat SPIN is]({{< relref "/about/_index.md" >}}), hoe je 
 het zelf [aan de praat kunt krijgen]({{< relref "/getit/_index.md" >}}), 
 hoe de [software werkt]({{< relref "/usage/_index.md" >}}) en hoe je zelf 
 kunt [bijdragen aan de doorontwikkeling]({{< relref "/contrib/_index.md" >}}) van SPIN.
 
-![SPINarch](/images/SPIN_Concept.png "SPIN concept")
+![miraibron](/images/source-code-hacks-iot-devices-to-build-ddos-army.jpg "Mirai broncode")
 
 {{% notice info %}}
 Druk de navigatie-knoppen (<i class='fa fa-chevron-left'></i> en

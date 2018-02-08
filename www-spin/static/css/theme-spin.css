@@ -20,7 +20,7 @@
     --MENU-SECTION-ACTIVE-CATEGORY-color: #777; /* Color of active category text */
     --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #fff; /* Color of background for the active category (only) */
 
-    --MENU-VISITED-color: #b4b4b4; /* Color of 'page visited' icons in menu */
+    --MENU-VISITED-color: #30a8cb; /* Color of 'page visited' icons in menu */
     --MENU-SECTION-HR-color: #8c8c8c; /* Color of <hr> separator in menu */
     
 }
