@@ -16,4 +16,4 @@ SPIN visualiseert ook de verkeerstromen, zodat de gebruiker inzicht krijgt in wa
 
 De SPIN-software, die is gebaseerd op [OpenWRT <i class='fa fa-link'></i>](https://openwrt.org/ "OpenWRT website"), is open source, waardoor iedereen met voldoende kennis van zaken het kan compileren en installeren. We maken onze resultaten ook openbaar, zodat de gemeenschap van onze ervaring kan profiteren.
 
-![SPINarch](/images/SPIN_Architecture.png "SPIN architectuur")
+![SPINarch](/images/SPIN_Architecture.png?width=40pc&classes=shadow "SPIN architectuur")

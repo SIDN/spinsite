@@ -16,4 +16,4 @@ SPIN also visualises traffic flows so that the user can see what is happening on
 
 We released the SPIN software as open source based on [OpenWRT <i class='fa fa-link'></i>](https://openwrt.org/ "OpenWRT website"), so that anyone with the proper set of skills can compile and install it. We also publish our results so the community can benefit from our experiences.
 
-![SPINarch](/images/SPIN_Architecture.png "SPIN architecture")
+![SPINarch](/images/SPIN_Architecture.png?width=40pc&classes=shadow "SPIN architecture")

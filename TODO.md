@@ -28,3 +28,4 @@
   * Language arrow down svg looks ugly in Firefox (change into fontawesome?)
     * Does not do the trick - needs further investigation
 * Use SIDN fonts?
+* Better images (the gui-image has a chrome error, the concept-image a weird white box below 'T' on the very var right)

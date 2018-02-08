@@ -14,7 +14,7 @@ het zelf [aan de praat kunt krijgen]({{< relref "/getit/_index.md" >}}),
 hoe de [software werkt]({{< relref "/usage/_index.md" >}}) en hoe je zelf 
 kunt [bijdragen aan de doorontwikkeling]({{< relref "/contrib/_index.md" >}}) van SPIN.
 
-![miraibron](/images/source-code-hacks-iot-devices-to-build-ddos-army.jpg "Mirai broncode")
+![miraibron](/images/source-code-hacks-iot-devices-to-build-ddos-army.jpg?width=40pc&classes=shadow "Mirai broncode")
 
 {{% notice info %}}
 Druk de navigatie-knoppen (<i class='fa fa-chevron-left'></i> en

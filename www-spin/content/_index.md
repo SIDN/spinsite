@@ -13,7 +13,7 @@ how to [obtain]({{< relref "/getit/_index.md" >}}) the software and get it runni
 how to [use]({{< relref "/usage/_index.md" >}}) the SPIN software and how you 
 can [contribute]({{< relref "/contribute/_index.md" >}}) to the further development of SPIN.
 
-![miraisource](/images/source-code-hacks-iot-devices-to-build-ddos-army.jpg "Mirai source")
+![miraisource](/images/source-code-hacks-iot-devices-to-build-ddos-army.jpg?width=40pc&classes=shadow "Mirai source")
 
 {{% notice info %}}
 Press on the chevrons (<i class='fa fa-chevron-left'></i> and
