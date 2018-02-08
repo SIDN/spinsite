@@ -1,6 +1,8 @@
 +++
-title =  "Menu testing level 2"
-description = "No description yet"
+title =  "deeper level 2"
+description = "Some nice description here"
+chapter = false
+slug = "2"
 draft = true
 +++
 

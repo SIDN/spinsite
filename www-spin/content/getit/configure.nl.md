@@ -1,7 +1,8 @@
 +++
-title = "Configuratie"
+title = "2.3 Configuratie"
 description = "Configureren van SPIN"
-weight = 2
+weight = 23
+chapter = false
 slug = "config"
 +++
 

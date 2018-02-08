@@ -62,6 +62,8 @@ defaultContentLanguageInSubdir = true
       #
   #######################################################################################
   # hugo-theme-docdock specific options
+  # (note: we have abandonded this theme at it might not work anymore for
+  # this site)
   #######################################################################################
       # ??? themeStyle = "original" # "original" or "flex" # default "original"
       # disableHomeIcon = false # default is false

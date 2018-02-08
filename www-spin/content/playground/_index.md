@@ -4,7 +4,7 @@ draft = true
 description = "This is our area for testing, not to be incorporated in the final website"
 date = "2018-01-19"
 author = "Marco"
-chapter = true
+chapter = false
 +++
 
 {{% notice note %}}
@@ -23,4 +23,4 @@ graph LR;
 
 ### Table of contents
 ---
-{{% children description="true"   %}}
+{{% children description="true" %}}

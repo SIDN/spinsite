@@ -2,6 +2,7 @@
 title = "Credits"
 description = "Contributors to SPIN"
 pre = "<i class='fa fa-bullhorn'></i> "
+chapter = false
 +++
 
 

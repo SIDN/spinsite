@@ -1,12 +1,12 @@
 +++
-title = "4. Contribute to SPIN"
+title = "5. Contribute to SPIN"
 description = "How to contribute?"
-weight = 4
+weight = 5
 alwaysopen = false
 chapter = true
 +++
 
-### Chapter 4
+### Chapter 5
 
 # Contribute to SPIN
 

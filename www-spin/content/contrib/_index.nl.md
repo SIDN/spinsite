@@ -1,12 +1,12 @@
 +++
-title = "4. Bijdragen aan SPIN"
+title = "5. Bijdragen aan SPIN"
 description = "Hoe bij te dragen?"
-weight = 4
+weight = 5
 alwaysopen = false
 chapter = true
 +++
 
-### Hoofdstuk 4
+### Hoofdstuk 5
 
 # Bijdragen aan SPIN
 

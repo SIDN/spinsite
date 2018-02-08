@@ -1,7 +1,8 @@
 +++
-title = "Downloaden en installeren"
+title = "2.2 Downloaden en installeren"
 description = "Installatie van SPIN"
-weight = 1
+weight = 22
+chapter = false
 slug = "install"
 +++
 

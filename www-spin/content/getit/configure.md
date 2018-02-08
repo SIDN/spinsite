@@ -1,7 +1,8 @@
 +++
-title = "Configuration"
+title = "2.3 Configuration"
 description = "Configuration of SPIN"
-weight = 2
+weight = 23
+chapter = false
 slug = "config"
 +++
 

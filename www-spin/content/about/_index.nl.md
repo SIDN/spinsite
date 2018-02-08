@@ -16,10 +16,5 @@ en de benadering die SPIN heeft gekozen teneinde hier wat tegen te doen.
 ![SPINarch](/images/SPIN_Concept.png "SPIN concept")
 
 {{%expand "Aansprakelijkheidsuitsluiting (klik om uit te klappen):" %}}
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+SPIN is een onderzoeksproject van SIDN Labs en wordt expliciet niet aangeboden of ondersteund door SIDN. De software en de inhoud op deze site kunnen op elk moment worden gewijzigd, zonder voorafgaande kennisgeving. Alles wordt geleverd "zoals het is" zonder garanties van welke aard dan ook. Gebruik op eigen risico. Gebruik het product niet voor productiedoeleinden en gebruik het alleen als u akkoord gaat met deze voorwaarden.
 {{% /expand%}}

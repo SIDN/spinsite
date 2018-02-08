@@ -2,6 +2,7 @@
 title = "Kudos"
 description = "Bijdragers SPIN"
 pre = "<i class='fa fa-bullhorn'></i> "
+chapter = false
 +++
 
 

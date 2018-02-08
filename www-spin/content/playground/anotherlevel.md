@@ -5,6 +5,10 @@ tags = [ "a", "b", "c" ]
 tags_weight = 22
 categories = ["d"]
 categories_weight = 44
+type = "event"
+layout = "birthday"
+chapter = false
+slug = "wateengekkeslug"
 draft = true
 +++
 
@@ -12,7 +16,7 @@ anotherlevel.md
 
 Notice there is no Dutch version, so the language menu is now limited.
 
-{{%expand "Is this learn theme rocks ?" %}}Yes !.{{% /expand%}}
+{{%expand "Does this learn theme rocks ?" %}}Yes !.{{% /expand%}}
 
 {{%expand%}}
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -23,6 +27,50 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {{% /expand%}}
 
-### Table of contents
----
-{{% children description="true"   %}}
+
+> This is a blockquite
+And it is really nice.
+
+# blah
+
+> This is a....
+Nested blockquote... Isn't it nice?
+>> No, it should work but it doesn't...
+Very ugly blockquote here.
+
+### more blah
+
+``` markup
+Sample text here...
+```
+
+In this example, `<section></section>` should be wrapped as **code**.
+
+    // Some comments atleast an ident of four spaces
+    line 1 of code
+    line 2 of code
+    line 3 of code
+
+### Syntax highlightning
+
+```js
+grunt.initConfig({
+  assemble: {
+    options: {
+      assets: 'docs/assets',
+      data: 'src/data/*.{json,yml}',
+      helpers: 'src/custom-helpers.js',
+      partials: ['src/partials/**/*.{hbs,md}']
+    },
+    pages: {
+      options: {
+        layout: 'default.hbs'
+      },
+      files: {
+        './': ['src/templates/pages/index.hbs']
+      }
+    }
+  }
+};
+```
+

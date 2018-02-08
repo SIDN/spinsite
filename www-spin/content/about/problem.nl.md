@@ -3,6 +3,7 @@ title = "1.1 Probleembeschrijving"
 description = "SPIN probleembeschrijving"
 weight = 11
 chapter = false
+slug = "ps"
 +++
 
 #### Beveiliging en privacy

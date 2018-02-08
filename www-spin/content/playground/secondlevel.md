@@ -1,5 +1,5 @@
 +++
-title =  "Secondlevel"
+title =  "Also see MenuTitle Front Matter"
 draft = true
 date        = "2013-06-21T11:27:27-04:00"
 lastmod     = "2018-01-21T11:27:27-04:00"
@@ -49,7 +49,13 @@ Does children description (below) work:
 
 {{ .Permalink }}
 
-{{ .Resources.ByType "image" }}
+(does nothing, this stuff belongs in templates, not here)
+
+{{ "Hugo is a static site generator." | countwords }}
+
+I :heart: Hugo!
+
+### Lot's of text here for anchor testing below
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet metus at ligula viverra ullamcorper. Donec elementum, mi a dignissim malesuada, dui tortor lacinia nibh, elementum convallis urna mi efficitur elit. Fusce in congue quam. In hac habitasse platea dictumst. Integer pretium porttitor nisl, sit amet pretium urna tempus ac. Curabitur malesuada velit nulla, non gravida nulla ultrices at. Vivamus ut condimentum ipsum. Nulla dictum malesuada est in cursus. Phasellus bibendum porta pharetra.
 

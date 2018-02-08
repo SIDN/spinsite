@@ -3,6 +3,7 @@ title = "1.1 Problem statement"
 description = "SPIN problem statement"
 weight = 11
 chapter = false
+slug = "ps"
 +++
 
 

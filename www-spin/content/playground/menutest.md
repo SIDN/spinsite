@@ -1,8 +1,11 @@
 +++
 title =  "Menu testing"
 description = "No description yet"
+chapter = false
 draft = true
 +++
+
+`author` Value : {{% siteparam "author" %}}
 
 Notice there is no Dutch version, so the language menu is now limited.
 
