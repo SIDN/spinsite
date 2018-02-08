@@ -1,5 +1,5 @@
 +++
-title = "2.1 Vereisten"
+title = "[TODO] Vereisten"
 description = "Vereisten van SPIN"
 weight = 21
 chapter = false

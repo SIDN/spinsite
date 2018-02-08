@@ -9,7 +9,7 @@ SPIN is a reference softwareplatform for secure and privacy-enabled IoT home net
 It is open source software, made by [SIDN Labs](https://www.sidnlabs.nl/index?language_id=2 "Visit our website") 
 and freely available [on Github <i class='fa fa-github'></i>](https://github.com/sidn/spin). 
 This site explains what SPIN is [about]({{< relref "/about/_index.md" >}}), 
-how to [obtain]({{< relref "/getit/_index.md" >}}) the software and get it running, 
+how to [obtain]({{< relref "/install/_index.md" >}}) the software and get it running, 
 how to [use]({{< relref "/usage/_index.md" >}}) the SPIN software and how you 
 can [contribute]({{< relref "/contribute/_index.md" >}}) to the further development of SPIN.
 

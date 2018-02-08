@@ -1,6 +1,6 @@
 +++
-title = "3. Using SPIN"
-description = "How to use SPIN"
+title = "3. Operating SPIN"
+description = "How to operate SPIN"
 weight = 3
 alwaysopen = false
 chapter = true

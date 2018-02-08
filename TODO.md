@@ -29,3 +29,7 @@
     * Does not do the trick - needs further investigation
 * Use SIDN fonts?
 * Better images (the gui-image has a chrome error, the concept-image a weird white box below 'T' on the very var right)
+* chapter h1 too small? CSS seems a bit unclear at first glance
+* chapter border-bottom color F0F2F4 is hard to see, change?
+* translate slug's into NL where applicable?
+* notices are not multilingual
