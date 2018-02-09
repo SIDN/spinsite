@@ -10,4 +10,4 @@ chapter = true
 
 # Bijdragen aan SPIN
 
-Dit is SPIN.
+![SPINarch](/images/iphone.png?width=20pc&classes=border "SPIN op iPhone")
