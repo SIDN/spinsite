@@ -14,7 +14,7 @@ De omgekeerde firewall blokkeert niet alleen mogelijk DDoS-verkeer, maar bescher
 
 SPIN visualiseert ook de verkeerstromen, zodat de gebruiker inzicht krijgt in wat er op het thuisnetwerk gebeurt.
 
-De SPIN-software, die is gebaseerd op [OpenWRT <i class='fa fa-link'></i>](https://openwrt.org/ "OpenWRT website"), is open source, waardoor iedereen met voldoende kennis van zaken het kan compileren en installeren. We maken onze resultaten ook openbaar, zodat de gemeenschap van onze ervaring kan profiteren.
+De SPIN-software, die is gebaseerd op [OpenWRT](https://openwrt.org/ "OpenWRT website"), is open source, waardoor iedereen met voldoende kennis van zaken het kan compileren en installeren. We maken onze resultaten ook openbaar, zodat de gemeenschap van onze ervaring kan profiteren.
 
 #### Overzicht
 
