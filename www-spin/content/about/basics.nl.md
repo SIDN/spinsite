@@ -8,9 +8,7 @@ chapter = false
 #### SPIN-systeem
 Om de in de [vorige paragraaf]({{< relref "/about/problem.nl.md" >}}) genoemde bedreigingen aan te pakken, ontwikkelden we het SPIN (Security and Privacy for In-home Networks) systeem. 
 
-Om het internet te beschermen tegen DDoS-aanvallen vanaf IoT-apparaten, introduceert SPIN het concept van een omgekeerde firewall, die verkeerstromen tussen IoT-apparaten en het internet analyseert en blokkeert als deze apparaten verdacht, afwijkend gedrag vertonen.
-
-De omgekeerde firewall blokkeert niet alleen mogelijk DDoS-verkeer, maar beschermt gebruikers ook tegen bijvoorbeeld het lekken van privacygevoelige informatie door IoT-apparaten naar diensten op het internet. De omgekeerde firewall beschermt dus zowel het internet als eindgebruikers tegen onveilige IoT-apparaten.
+SPIN introduceert het concept van een omgekeerde firewall, waarmee het internet kan worden beschermd tegen DDoS-aanvallen vanaf IoT-apparaten. Verdacht verkeer van IoT-apparaten die afwijkend gedrag vertonen kan worden geblokkeerd. Op dezelfde manier beschermt SPIN ook gebruikers tegen bijvoorbeeld het lekken van privacygevoelige informatie door IoT-apparaten naar diensten op het internet. 
 
 SPIN visualiseert ook de verkeerstromen, zodat de gebruiker inzicht krijgt in wat er op het thuisnetwerk gebeurt.
 
