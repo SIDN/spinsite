@@ -1,7 +1,7 @@
 +++
-title = "1.4 Media"
+title = "1.5 Media"
 description = "Resources on the internet regarding SPIN"
-weight = 14
+weight = 15
 chapter = false
 slug = "media"
 +++

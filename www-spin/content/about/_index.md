@@ -10,8 +10,6 @@ chapter = true
 
 # About SPIN
 
-![SPINarch](/images/SPIN_Concept.png?width=40pc&classes=border "SPIN concept")
-
 {{%expand "Disclaimer (click to expand):" %}}
 SPIN is a research project from SIDN Labs and is explicitely not provided nor supported by SIDN. The softwareand the content on this site is subject to change at any moment, without prior notice. Everything is provided "as is" without warranties of any kind. Use at own risk. Do not use for production purposes and only use it if you agree with these terms.
 {{% /expand%}}

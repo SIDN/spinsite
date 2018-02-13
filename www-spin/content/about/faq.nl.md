@@ -1,12 +1,21 @@
 +++
-title = "1.3 FAQ"
+title = "1.4 FAQ"
 description = "SPIN Veelgestelde vragen"
-weight = 13
+weight = 14
 chapter = false
 slug = "faq"
 +++
 
-TODO
+
+##### 1. Doet SPIN aan 'deep packet inspection'?
+(antwoord hier)
+
+##### 1. Hoe zit het met mijn privacy?
+(antwoord hier)
+
+##### 1. Bestaan er soortgelijke producten?
+(antwoord hier)
+
 
 
 
