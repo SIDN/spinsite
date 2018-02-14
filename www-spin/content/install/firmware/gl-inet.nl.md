@@ -1,12 +1,16 @@
 +++
-title = "2.1.2 GL-Inet apparaten"
-description = "Installatiehandleiding voor GL-Inet apparaten"
+title = "2.1.2 GL-iNet apparaten"
+description = "Installatiehandleiding voor GL-iNet apparaten"
 weight = 212
 chapter = false
 slug = "glinet"
 +++
 
-#### Mogelijke manieren
+#### GL-iNet faberieks-firmware vervangen
+
+De [genoemde]({{< relref "/install/firmware/requirements.md" >}}) apparaten worden standaard geleverd met fabriekssoftware. Via onderstaande stappen kan deze standaard firmware eenvoudig worden overschreven met de SPIN firmware. Is de SPIN firmware eenmaal aanwezig, is deze eenvoudig via de SPIN-interface actueel te houden. Zie daarvoor het onderdeel [configuratie]({{< relref "/install/configure.md" >}}).
+
+Er zijn twee methodes voor het overschrijven van de fabriekssoftware:
 
 1. [Standard methode]({{< relref "#standard-methode" >}})
 1. [Alternatieve methode]({{< relref "#alternatieve-methode" >}})

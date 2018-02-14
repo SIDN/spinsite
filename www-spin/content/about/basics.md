@@ -3,6 +3,7 @@ title = "1.2 Basics of SPIN"
 description = "SPIN basics"
 weight = 12
 chapter = false
+slug = "basics"
 +++
 
 #### SPIN system

@@ -6,7 +6,7 @@ alwaysopen = false
 chapter = true
 +++
 
-### Chapter 2
+### Hoofdstuk 2
 
 # Installeren van SPIN
 

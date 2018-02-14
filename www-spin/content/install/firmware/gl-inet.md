@@ -6,7 +6,12 @@ chapter = false
 slug = "glinet"
 +++
 
-#### Possible methods
+#### Replace GL-iNet factory firmware
+
+The [aforementioned]({{< relref "/install/firmware/requirements.md" >}}) devices are shipped with standard factory firmware. With the steps below this standard firmware can be easily overwritten with SPIN firmware.
+Once the SPIN firmware is present it can easily kept up to date via the SPIN interface. See the [configuration]({{< relref "/install/configure.md" >}}) section for further information about this.
+
+There are two methods for overwriting the factory software:
 
 1. [Standard method]({{< relref "#standard-method" >}})
 1. [Alternative method]({{< relref "#alternative-method" >}})

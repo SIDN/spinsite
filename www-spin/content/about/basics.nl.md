@@ -3,6 +3,7 @@ title = "1.2 Grondbeginselen van SPIN"
 description = "SPIN grondbeginselen"
 weight = 12
 chapter = false
+slug = "basics"
 +++
 
 #### SPIN-systeem
