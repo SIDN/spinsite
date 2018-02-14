@@ -16,3 +16,6 @@ TODO:
 * Dependencies
 * Steps
 * Releases? https://github.com/SIDN/spin/releases
+* https://github.com/SIDN/valibox-spin-builder
+* https://valibox.sidnlabs.nl/downloads/src/
+
