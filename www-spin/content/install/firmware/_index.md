@@ -7,7 +7,7 @@ slug = "firmwareimage"
 +++
 
 {{% notice tip %}}
-Recommended for novice users.
+This method is the recommended one for novice users.
 {{% /notice %}}
 
 [TODO]

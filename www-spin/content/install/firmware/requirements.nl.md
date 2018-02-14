@@ -1,7 +1,7 @@
 +++
-title = "[TODO] Vereisten"
+title = "2.1.1 Vereisten"
 description = "Vereisten van SPIN"
-weight = 21
+weight = 211
 chapter = false
 slug = "reqs"
 +++
