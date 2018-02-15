@@ -55,3 +55,5 @@ or with percentsymbols...?
 
 In any case, please make sure the relref is correct, in this case for
 example 'playground/nitro/#another-anchor' would be wrong.
+
+[anchor test with mouse over]({{% relref "playground/secondlevel.md#another-anchor" "wertkt dit? Nee!" %}})

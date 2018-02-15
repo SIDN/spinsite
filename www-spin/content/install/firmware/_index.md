@@ -10,8 +10,22 @@ slug = "firmwareimage"
 This method is the recommended one for novice users.
 {{% /notice %}}
 
-####  ValiBox
-SPIN firmware is a further development of an earlier SIDN Labs project called [ValiBox](https://valibox.sidnlabs.nl). Firmware images are available for certain supported [GL-iNet](https://www.gl-inet.com/) devices. In the [requirements section]({{< relref "/install/firmware/requirements.md" >}}) you can find further details about which hardware is supported.
+#### ValiBox
+SPIN can be run on top of an earlier SIDN Labs project called [ValiBox](https://valibox.sidnlabs.nl), a home router with DNSSEC validation functionality. Firmware images are available for certain supported [GL-iNet](https://www.gl-inet.com/) devices. They extend the [ValiBox router with SPIN functionality]({{< relref "/about/faq.md#how-does-spin-relate-to-the-valibox" >}}). In the [requirements section]({{< relref "/install/firmware/requirements.md" >}}) you can find further details about which hardware is supported.
+
+#### Turris Omnia
+SPIN can also be installed on a [Turris Omnia](https://omnia.turris.cz/en/), thus extending the Turris router with SPIN functionality.
+
+| <i class="fa fa-exclamation-triangle"></i> Please note: |
+| :-----: |
+| Turris firmware images are **not** currently available. This is someting we will soon be working on.
+
+#### Raspberry Pi
+SPIN can also be installed on a [Raspberry Pi](https://www.raspberrypi.org/), thus extending it with SPIN functionality.
+
+| <i class="fa fa-exclamation-triangle"></i> Please note: |
+| :-----: |
+| **Not** currently available. We expect to create SPIN packages that can be installed with a [packaging tool](https://www.raspberrypi.org/documentation/linux/software/apt.md).
 
 #### Firmware image downloads
 

@@ -1,7 +1,7 @@
 +++
-title = "3.1 Troubleshooting"
+title = "3.2 Troubleshooting"
 description = "Troubleshooting SPIN"
-weight = 31
+weight = 32
 chapter = false
 slug = "debug"
 +++

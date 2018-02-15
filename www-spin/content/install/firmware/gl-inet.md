@@ -1,5 +1,5 @@
 +++
-title = "2.1.2 GL-Inet devices"
+title = "2.1.2 ValiBox / GL-Inet devices"
 description = "Installation guide for GL-Inet devices"
 weight = 212
 chapter = false
