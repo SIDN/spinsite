@@ -15,9 +15,10 @@ chapter = true
 {{<mermaid>}}
 graph TB;
     A(WebGUI) -->|websocket| B[MQTT server]
-    A(WebGUI) -->|HTTP| B(Web server)
-    B --> C{SPIN Agent}
-    C -->|WAN| D((Internet))
-    C -->|LAN| E[IoT Device]
+    A(WebGUI) -->|HTTP| C(Web server)
+    B --> D{SPIN Agent}
+    C --> D{SPIN Agent}
+    D -->|WAN| E((Internet))
+    D -->|LAN| F[IoT Device]
 {{< /mermaid >}}
 
