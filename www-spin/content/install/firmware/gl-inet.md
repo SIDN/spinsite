@@ -8,7 +8,7 @@ slug = "glinet"
 
 #### Replace GL-iNet factory firmware
 
-The [aforementioned]({{< relref "/install/firmware/requirements.md" >}}) devices are shipped with standard factory firmware. With the steps below this standard firmware can be easily overwritten with SPIN firmware.
+The [aforementioned]({{< relref "/install/firmware/requirements.md" >}}) devices are shipped with standard factory firmware. With the steps below this standard firmware is overwritten with SPIN firmware.
 Once the SPIN firmware is present it can easily kept up to date via the SPIN interface. See the [configuration]({{< relref "/install/configure.md" >}}) section for further information about this.
 
 There are two methods for overwriting the factory software:
@@ -16,12 +16,15 @@ There are two methods for overwriting the factory software:
 1. [Standard method]({{< relref "#standard-method" >}})
 1. [Alternative method]({{< relref "#alternative-method" >}})
 
+<i class="fa fa-thumbs-up"></i> After one of these steps was successful, the SPIN software can be [configured]({{< relref "/install/configure.md" >}}).
+
 #### Standard method
 
 Make sure you have a [SPIN firmware image]({{< relref "/install/firmware/_index.md" >}})  available before you begin.
 
 1. Connect a GL-inet to a computer or laptop
 1. Open a browser window and enter the URL http://192.168.8.1
+1. Go through any initial steps, such as language choice, time zone and password
 1. On the left-side menu, click 'Upload Firmware'
 1. Then click 'Upload Firmware' in the upper right
 1. Select the firmware image file from your local disk
