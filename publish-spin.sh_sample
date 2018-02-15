@@ -8,9 +8,9 @@ cd www-spin
 /usr/local/bin/hugo
 
 # Manual fixes might be placed here
-#echo "ErrorDocument 404     /404.html" > public/.htaccess
+#echo "ErrorDocument 404     /en/404.html" > public/.htaccess
 #echo "ErrorDocument 404     /nl/404.html" > public/nl/.htaccess
-#echo "ErrorDocument 404     /404.html" > public/en/.htaccess
+#echo "ErrorDocument 404     /en/404.html" > public/en/.htaccess
 #rm public/index.html
 #cp ../index.php public/
 
