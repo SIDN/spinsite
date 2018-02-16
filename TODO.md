@@ -34,3 +34,4 @@
 * chapter border-bottom color F0F2F4 is hard to see, change?
 * translate slug's into NL where applicable?
 * notices are not multilingual
+* ValiBox initial boot image is old, does not contain SPIN-option.
