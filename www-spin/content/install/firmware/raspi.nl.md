@@ -10,4 +10,4 @@ slug = "raspi"
 
 | <i class="fa fa-exclamation-triangle"></i> Let op: |
 | :-----: |
-| Momenteel nog **niet** beschikbaar. Maar we verwachten op termijn SPIN 'packages' te gana maken die kunnen worden geïnstalleerd met een '[packaging tool](https://www.raspberrypi.org/documentation/linux/software/apt.md)'.
+| Momenteel nog **niet** beschikbaar. Maar we verwachten op termijn SPIN 'packages' te gaan maken die kunnen worden geïnstalleerd met een '[packaging tool](https://www.raspberrypi.org/documentation/linux/software/apt.md)'.
