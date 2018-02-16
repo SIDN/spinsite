@@ -9,7 +9,7 @@ slug = "reqs"
 #### Hardware
 Precompiled '[ValiBox with SPIN]({{< relref "/about/faq.md#how-does-spin-relate-to-the-valibox" >}})' firmware images are available for the following [GL-iNet](https://www.gl-inet.com/) devices:
 
-* [GL.iNet6416](https://www.gl-inet.com/gl-inet6416/) (stopgezet)
+* [GL.iNet6416](https://www.gl-inet.com/gl-inet6416/) (discontinued)
 * [GL-AR150](https://www.gl-inet.com/ar150/) Mini Smart Router
 * [GL-AR300M](https://www.gl-inet.com/ar300m/) Mini Smart Router
 

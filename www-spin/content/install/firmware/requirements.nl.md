@@ -9,7 +9,7 @@ slug = "reqs"
 #### Hardware
 Voorgebakken firmware-bestanden voor de '[ValiBox met SPIN]({{< relref "/about/faq.nl.md#hoe-verhoud-zich-spin-tot-de-valibox">}})' zijn beschikbaar voor de volgende [GL-iNet](https://www.gl-inet.com/) apparaten:
 
-* [GL.iNet6416](https://www.gl-inet.com/gl-inet6416/) (discontinued)
+* [GL.iNet6416](https://www.gl-inet.com/gl-inet6416/) (stopgezet)
 * [GL-AR150](https://www.gl-inet.com/ar150/) Mini Smart Router
 * [GL-AR300M](https://www.gl-inet.com/ar300m/) Mini Smart Router
 

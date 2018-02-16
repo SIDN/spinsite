@@ -29,3 +29,8 @@ On this screen you can set up 3 things:
 1. A password to administer the machine
 
 Once this is done, the Valibox will reboot and you are ready to go! :smile:
+
+#### Advanced configuration
+If you want to have any special configuration, browse to http://valibox. and click 'configuration'. You will be presented with the OpenWRT configuration screen ([LuCI](https://wiki.openwrt.org/doc/techref/luci#what_is_luci)). The login name there is 'root' and the password is the password you have set on first use.
+
+There is a tab there with ValiBox-specific settings. All other pages there are the standard OpenWRT / LuCI configuration pages.
