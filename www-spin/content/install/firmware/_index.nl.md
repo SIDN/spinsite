@@ -18,7 +18,7 @@ SPIN kan ook worden geïnstalleerd op een [Turris Omnia](https://omnia.turris.cz
 
 | <i class="fa fa-exclamation-triangle"></i> Let op: |
 | :-----: |
-| Turris firmware is nog **niet** beschikbaar. We gaan hier binnekort mee aan de slag.
+| Turris firmware is nog **niet** beschikbaar. We werken hier aan.
 
 #### Raspberry Pi
 SPIN kan ook worden geïnstalleerd op een [Raspberry Pi](https://www.raspberrypi.org/), zodat deze over SPIN functionalliteit beschikt.

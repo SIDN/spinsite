@@ -37,6 +37,8 @@ Important! Disable the 'keep settings' checkbox!
 
 When the image has been verified, the SPIN software will be installed. This can take a number of minutes.
 
+See this link for more detailed information: https://gl-inet.com/docs/mini/firmware/
+
 #### Alternative method
 
 Most devices have a second way of updating; the 'boot override method'. This is worth a shot if the device does not start normally or you cannot access the administrator panels anymore.

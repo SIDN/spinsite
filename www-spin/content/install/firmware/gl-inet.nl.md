@@ -36,6 +36,8 @@ Belangrijk! Vink de 'keep settings' checkbox uit!
 
 Wanneer het image is geverifieerd, zal de SPIN-software worden geinstalleerd. Dit kan enkele minuten in beslag nemen.
 
+Zie voor aanvullende, engelstalige informatie: https://gl-inet.com/docs/mini/firmware/
+
 #### Alternatieve methode
 
 De meeste apparaten hebben een tweede manier van updated; the 'boot override methode'. Deze is een poging waard als het apparaat neit normaal start en er geen beheer scherm voorhanden is.

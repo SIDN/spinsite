@@ -10,8 +10,6 @@ chapter = true
 
 # SPIN gebruiken
 
-![spinwebgui](/images/spin-gui.png?width=40pc&classes=shadow "SPIN webgui")
-
 {{<mermaid>}}
 graph TB;
     A(WebGUI) -->|websocket| B[MQTT server]

@@ -18,7 +18,7 @@ SPIN can also be installed on a [Turris Omnia](https://omnia.turris.cz/en/), thu
 
 | <i class="fa fa-exclamation-triangle"></i> Please note: |
 | :-----: |
-| Turris firmware images are **not** currently available. This is someting we will soon be working on.
+| Turris firmware images are **not** currently available. This is work in progress.
 
 #### Raspberry Pi
 SPIN can also be installed on a [Raspberry Pi](https://www.raspberrypi.org/), thus extending it with SPIN functionality.
