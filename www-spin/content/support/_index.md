@@ -24,5 +24,7 @@ We provide SPIN support on a best-effort basis (best-effort in the technical sen
 | IoT | [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things). 
 | SPIN | Stands for Security and Privacy for In-home Networks - an open source reference softwareplatform for secure and privacy-enabled IoT home networks.
 | Turris Omnia | Router made by [CZ.NIC](https://omnia.turris.cz/en/) based on open source hardware and [OpenWRT](https://wiki.openwrt.org/toh/hwdata/turris/turris_turris_omnia). Capable of running SPIN firmware.
+| ValiBox | Previous SIDN Labs project consisting of GL-iNet (firmware) with DNSSEC validating resolver with Negative Trust Anchor (NTA) management. Beta versions of the firmware have been extended with SPIN functionality.
+
 
 

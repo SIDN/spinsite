@@ -10,7 +10,6 @@ slug = "troubleshooting"
 If something during the installation went wrong, one of the following solutions might help.
 
 * [Device bricked]({{< relref "#device-appears-bricked" >}})
-* [Autoupgrade failed]({{< relref "#autoupgrade-to-latest-release-fails" >}})
 * [What else]({{< relref "#what-else" >}})
 
 #### Device appears 'bricked'
