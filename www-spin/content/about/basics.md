@@ -17,7 +17,7 @@ We released the SPIN software as open source based on [OpenWRT](https://openwrt.
 
 #### Overview and components
 
-![SPINarch](/images/SPIN_Architecture.png?width=20pc&classes=shadow "SPIN architecture")
+![SPINarch](/images/SPIN_Architecture.png?width=20pc&classes=border "SPIN architecture")
 
 The figure above (click to enlarge) is a global overview of the architecture of a SPIN-based system, featuring two distinct component groups: lightweight SPIN agents that measure network traffic and more intelligent controllers. The separation is new and enables us to use the system for a larger set of deployment scenarios.
 

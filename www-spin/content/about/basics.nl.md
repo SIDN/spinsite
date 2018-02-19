@@ -17,7 +17,7 @@ De SPIN-software, die is gebaseerd op [OpenWRT](https://openwrt.org/ "OpenWRT we
 
 #### Overzicht en componenten
 
-![SPINarch](/images/SPIN_Architecture.png?width=20pc&classes=shadow "SPIN architectuur")
+![SPINarch](/images/SPIN_Architecture.png?width=20pc&classes=border "SPIN architectuur")
 
 Bovenstaande afbeelding (opklikken voor groot) geeft een globaal overzicht van de architectuur van een op SPIN gebaseerd systeem, met twee afzonderlijke soorten componenten: lichtgewicht ‘SPIN agents’ die netwerkverkeer meten en meer intelligente controllers. De scheiding is nieuw en maakt het systeem geschikt voor meer toepassingsscenario’s.
 
