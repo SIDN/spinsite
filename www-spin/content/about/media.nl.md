@@ -26,5 +26,6 @@ Informatiebronnen op het internet die van pas kunnen komen om te starten met SPI
 * [Vak over SPIN-achtige systemen](https://www.4tu.nl/cybsec/en/course-program/ssh/) aan de Universiteit Twente
 
 ### Diverse niet SIDN Labs gerelateerd
-* TODO
+* [Report on Status of International Cybersecurity Standardization for the IoT](https://csrc.nist.gov/CSRC/media/Publications/nistir/8200/draft/documents/nistir8200-draft.pdf) - Draft NISTIR 8200 door NIST
+* [ISOC IoT](https://www.internetsociety.org/iot/)
 * TODO

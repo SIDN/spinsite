@@ -27,5 +27,6 @@ Resources on the internet which might be helpful to get started with SPIN.
 * [Course on SPIN-like systems](https://www.4tu.nl/cybsec/en/course-program/ssh/) at the University of Twente
 
 ### Various non SIDN Labs related
-* TODO
+* [Report on Status of International Cybersecurity Standardization for the IoT](https://csrc.nist.gov/CSRC/media/Publications/nistir/8200/draft/documents/nistir8200-draft.pdf) - Draft NISTIR 8200 by NIST
+* [ISOC IoT](https://www.internetsociety.org/iot/)
 * TODO
