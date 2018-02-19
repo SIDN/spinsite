@@ -1,6 +1,6 @@
 +++
-title = "2.1.1 Requirements"
-description = "Requirements of SPIN"
+title = "2.1.1 Hardware requirements"
+description = "Hardware requirements of SPIN"
 weight = 211
 chapter = false
 slug = "reqs"

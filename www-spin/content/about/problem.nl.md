@@ -6,14 +6,13 @@ chapter = false
 slug = "ps"
 +++
 
-#### Beveiliging en privacy
-Hoewel de verwachting is dat het [IoT](https://nl.wikipedia.org/wiki/Internet_der_dingen) ons leven op allerlei manieren makkelijker gaat maken, zijn er ook risico’s en bedreigingen vanwege onveilige IoT-apparaten. Dit geldt zeker ook voor thuisnetwerken, waar beveiliging van producten (door fabrikanten) niet altijd prioriteit heeft en goed beheer door gebruikers, vanwege onvoldoende kennis en hulpmiddelen een uitdaging kan zijn. Als gevolg hiervan komen beveiliging en privacy in het geding.
+#### IoT, de risico's
+Het 'Internet der Dingen' ([IoT](https://nl.wikipedia.org/wiki/Internet_der_dingen)) kan ons leven op allerlei manieren makkelijker  maken, maar brengt helaas ook risico’s en bedreigingen met zich mee. Dit geldt zeker ook voor thuisnetwerken.  Beveiliging van producten door fabrikanten laat nog vaak te wensen over. En adequaat beheer door gebruikers is vaak een uitdaging vanwege onvoldoende kennis en hulpmiddelen.
 
-#### Belangrijke veiligheidsrisico's
-Kwetsbare IoT-apparaten brengen twee belangrijke risico’s met zich mee.
+Als gevolg hiervan komen beveiliging en privacy van het thuisnetwerk in het geding. Kwetsbare IoT-apparaten brengen twee belangrijke risico’s met zich mee.
 
-1. Ten eerste bedreigen ze het internet als wereldwijde communicatie-infrastructuur, omdat onveilige IoT-apparaten onderdeel kunnen worden van massale DDoS-aanvallen. 
-1. Ten tweede brengen onveilige IoT-apparaten ook privacy en zelfs de veiligheid van eindgebruikers in gevaar. 
+1. Ze bedreigen het internet als wereldwijde communicatie-infrastructuur, omdat onveilige IoT-apparaten onderdeel kunnen worden van massale DDoS-aanvallen. 
+1. Onveilige IoT-apparaten brengen tevens de privacy en zelfs de veiligheid van eindgebruikers in gevaar. 
 
 Meer hierover beschrijven we op [de SIDN Labs site](https://www.sidnlabs.nl/).
 
