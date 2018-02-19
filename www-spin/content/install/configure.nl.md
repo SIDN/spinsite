@@ -11,7 +11,6 @@ Nadat SPIN succesvol is [geïnstalleerd]({{< relref "/install/_index.md" >}}) zi
 
 #### Eerste keer opstarten
 
-The first time you start the Valibox, it may take a few minutes while the device is getting settled.
 De eerste keer dat de ValiBox wordt gestart, kan het enkele minuten duren voordat het apparaat gereed is.
 
 1. Op een gegeven moment zou u een nieuw WiFi-netwerk moeten zien genaamd 'SIDN-Valibox-(code)'. De code moet overeenkomen met de laatste 3 letters van het MAC-adres dat op de onderkant van de ValiBox is afgedrukt. Maak verbinding met dit netwerk.

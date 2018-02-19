@@ -14,7 +14,7 @@ After you have successfully [installed]({{< relref "/install/_index.md" >}}) SPI
 The first time you start the Valibox, it may take a few minutes while the device is getting settled.
 
 1. At some point you should see a new WiFi network called 'SIDN-Valibox-(code)'. The code should match the last 3 letters of the MAC address printed on the bottom of the Valibox. Connect to this network.
-1.Open a browser and go to http://valibox.
+1. Open a browser and go to http://valibox.
 
 You should get the following page:
 
