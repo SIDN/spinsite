@@ -10,11 +10,11 @@ slug = "firmwareimage"
 This method is the recommended one for novice users.
 {{% /notice %}}
 
-#### ValiBox
+#### ValiBox with SPIN
 SPIN can be run on top of an earlier SIDN Labs project called [ValiBox](https://valibox.sidnlabs.nl), a home router with DNSSEC validation functionality. Firmware images are available for certain supported [GL-iNet](https://www.gl-inet.com/) devices. They extend the [ValiBox router with SPIN functionality]({{< relref "/about/faq.md#how-does-spin-relate-to-the-valibox" >}}). In the [requirements section]({{< relref "/install/firmware/requirements.md" >}}) you can find further details about which hardware is supported.
 
 #### Turris Omnia
-SPIN can also be installed on a [Turris Omnia](https://omnia.turris.cz/en/), thus extending the Turris router with SPIN functionality.
+SPIN can also be installed on a [Turris Omnia](https://omnia.turris.cz/en/), thus extending the Turris router with SPIN functionality (but not the ValiBox DNSSEC validating resolver).
 
 | <i class="fa fa-exclamation-triangle"></i> Please note: |
 | :-----: |
