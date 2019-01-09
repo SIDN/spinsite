@@ -4,6 +4,7 @@ description = "Advanced CLI usage"
 weight = 33
 chapter = false
 slug = "cli"
+draft = true
 +++
 
 TODO

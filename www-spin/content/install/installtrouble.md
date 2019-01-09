@@ -4,6 +4,7 @@ description = "Troubleshooting the install"
 weight = 24
 chapter = false
 slug = "troubleshooting"
+draft = true
 +++
 
 #### Solutions to installation problems

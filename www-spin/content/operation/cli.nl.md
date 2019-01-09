@@ -4,6 +4,7 @@ description = "Gevorderden CLI gebruik"
 weight = 33
 chapter = false
 slug = "cli"
+draft = true
 +++
 
 TODO

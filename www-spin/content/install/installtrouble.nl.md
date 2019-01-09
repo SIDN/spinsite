@@ -4,6 +4,7 @@ description = "Problemen met installeren oplossen"
 weight = 24
 chapter = false
 slug = "troubleshooting"
+draft = true
 +++
 
 #### Oplossingen voor installatieproblemen

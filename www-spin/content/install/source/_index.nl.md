@@ -11,4 +11,4 @@ slug = "fromsource"
 Alleen voor gevorderden.
 {{% /notice %}}
 
-TODO
+Aan de handleiding voor installeren via de broncode wordt nog gewerkt.
