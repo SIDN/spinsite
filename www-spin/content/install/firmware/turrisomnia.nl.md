@@ -10,4 +10,4 @@ slug = "turrisomnia"
 
 | <i class="fa fa-exclamation-triangle"></i> Let op: |
 | :-----: |
-| Turris firmware is nog **nie** beschikbaar. We gaan hier binnekort mee aan de slag.
+| Turris firmware is nog **niet** beschikbaar. We gaan hier binnenkort mee aan de slag.
