@@ -4,6 +4,7 @@ description = "Installation guide for the Turris Onnia"
 weight = 213
 chapter = false
 slug = "turrisomnia"
+draft = true
 +++
 
 #### Extend the Turris Omnia factory firmware

@@ -4,6 +4,7 @@ description = "Installatiehandleiding voor de Turris Onnia"
 weight = 213
 chapter = false
 slug = "turrisomnia"
+draft = true
 +++
 
 #### Turris Omnia fabrieksfirmware uitbreiden met SPIN

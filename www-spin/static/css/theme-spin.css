@@ -86,7 +86,7 @@ a:hover {
 
 #sidebar .select-style { /* Added by us */
     padding: 0 1rem; /* Analogous to #sidebare a.padding class */
-    width: 165px; /* Overrule hugo-theme.css .select-style 150px, to make 'Netherlands' fit */
+    width: 150px; /* Overrule hugo-theme.css .select-style 150px, to make 'Netherlands' fit (but changed that into NL)*/
 }
 
 #sidebar .searchbox {

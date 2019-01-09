@@ -4,6 +4,7 @@ description = "Installation guide for Raspberry Pi devices"
 weight = 214
 chapter = false
 slug = "raspi"
+draft = true
 +++
 
 #### Install SPIN package on a Raspberry Pi

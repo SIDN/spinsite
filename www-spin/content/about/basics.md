@@ -1,5 +1,5 @@
 +++
-title = "1.2 Basics of SPIN"
+title = "1.2 Basics"
 description = "SPIN basics"
 weight = 12
 chapter = false

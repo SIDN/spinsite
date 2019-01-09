@@ -27,7 +27,7 @@ defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.en]
-    languageName = "🇬🇧 / English"
+    languageName = "🇬🇧 / EN"
     languageCode = "en-US"
     weight = 1
     title = "SPIN Security and Privacy for Inhome Networks by SIDN Labs"
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = true
       url = "/"
       weight = 20
   [languages.nl]
-    languageName = "🇳🇱  / Nederlands"
+    languageName = "🇳🇱  / NL"
     languageCode = "nl-NL"
     weight = 2
     title = "SPIN Security and Privacy for Inhome Networks door SIDN Labs"
@@ -73,14 +73,14 @@ defaultContentLanguageInSubdir = true
   #######################################################################################
   # hugo-theme-learn specific options
   #######################################################################################
-      # disableShortcutsTitle = false
+      disableShortcutsTitle = true
       # disableInlineCopyToClipBoard = false
       # disableAssetsBusting = false
   #######################################################################################
   # hugo-theme-learn & hugo-theme-docdock common options
   #######################################################################################
       themeVariant = "spin" # choose theme variant "green", "red", "blue, or: spin ;-)"
-      author = "Marco Davids"
+      author = "Team Spin"
       description = "SPIN project website"
       ordersectionsby = "weight" # ordersectionsby = "title"
       # Shows  'Edit this page' option next to breadcrums

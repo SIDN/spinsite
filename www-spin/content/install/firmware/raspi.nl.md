@@ -4,6 +4,7 @@ description = "Installatiehandleiding voor Raspberry Pi apparaten"
 weight = 214
 chapter = false
 slug = "raspi"
+draft = true
 +++
 
 #### Installeren van SPIN package op een Raspberry Pi
