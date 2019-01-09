@@ -11,7 +11,7 @@ Deze methode is aanbevolen voor de beginnende gebruiker.
 {{% /notice %}}
 
 ####  ValiBox met SPIN
-SPIN kan worden gedraaid op een eerder SIDN Labs project genaamd [ValiBox](https://valibox.sidnlabs.nl), een thuisrouter met DNSSEC validatie functionaliteit. Firmware bestanden zijn beschikbaar voor bepaalde ondersteunde [GL-iNet](https://www.gl-inet.com/) apparaten. Daarbij wordt de [ValiBox router]({{< relref "/about/faq.nl.md#hoe-verhoud-zich-spin-tot-de-valibox" >}}) uitgebreid met SPIN functionaliteit. Bij de sectie "[vereisten]({{< relref "/install/firmware/requirements.md" >}})" staan aanvullende details over welke hardware wordt ondersteund.
+SPIN kan worden gedraaid op een eerder SIDN Labs project genaamd [ValiBox](https://valibox.sidnlabs.nl), een thuisrouter met DNSSEC validatie functionaliteit. Firmware bestanden zijn beschikbaar voor bepaalde ondersteunde [GL-iNet](https://www.gl-inet.com/) apparaten. Daarbij wordt de [ValiBox router]({{< relref "/about/faq.nl.md#hoe-verhoud-zich-spin-tot-de-valibox" >}}) uitgebreid met SPIN functionaliteit. Bij de sectie "[vereisten]({{< relref "/install/firmware/requirements.nl.md" >}})" staan aanvullende details over welke hardware wordt ondersteund.
 
 #### Turris Omnia
 SPIN kan ook worden geïnstalleerd op een [Turris Omnia](https://omnia.turris.cz/en/), zodat deze over SPIN functionalliteit beschikt (maar niet de ValiBox DNSSEC validerende resolver).

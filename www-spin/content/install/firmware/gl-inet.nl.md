@@ -8,14 +8,14 @@ slug = "glinet"
 
 #### GL-iNet fabrieks-firmware vervangen
 
-De [genoemde]({{< relref "/install/firmware/requirements.md" >}}) apparaten worden standaard geleverd met fabriekssoftware. Via onderstaande stappen wordt deze standaard firmware overschreven met de SPIN firmware. Is de SPIN firmware eenmaal aanwezig, is deze eenvoudig via de SPIN-interface actueel te houden. Zie daarvoor het onderdeel [configuratie]({{< relref "/install/configure.md" >}}).
+De [genoemde]({{< relref "/install/firmware/requirements.nl.md" >}}) apparaten worden standaard geleverd met fabriekssoftware. Via onderstaande stappen wordt deze standaard firmware overschreven met de SPIN firmware. Is de SPIN firmware eenmaal aanwezig, is deze eenvoudig via de SPIN-interface actueel te houden. Zie daarvoor het onderdeel [configuratie]({{< relref "/install/configure.nl.md" >}}).
 
 Er zijn twee methodes voor het overschrijven van de fabriekssoftware:
 
 1. [Standard methode]({{< relref "#standard-methode" >}})
 1. [Alternatieve methode]({{< relref "#alternatieve-methode" >}})
 
-<i class="fa fa-flask"></i> Nadat een van deze stappen is gelukt, kan de SPIN-software worden [geconfigureerd]({{< relref "/install/configure.md" >}}).
+<i class="fa fa-flask"></i> Nadat een van deze stappen is gelukt, kan de SPIN-software worden [geconfigureerd]({{< relref "/install/configure.nl.md" >}}).
 
 #### Standard methode
 
