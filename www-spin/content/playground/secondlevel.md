@@ -70,5 +70,5 @@ Curabitur eget odio libero. Fusce ac turpis libero. Proin eu nibh egestas, vulpu
 
 ## Another anchor
 
-Lorum ipsum blah...
+Lorem ipsum blah...
 
