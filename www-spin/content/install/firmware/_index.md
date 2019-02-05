@@ -18,14 +18,25 @@ SPIN can also be installed on a [Turris Omnia](https://omnia.turris.cz/en/), thu
 
 | <i class="fa fa-exclamation-triangle"></i> Please note: |
 | :-----: |
-| Turris firmware images are **not** currently available. This is work in progress.
+| Turris firmware images are running in our lab environment only and are **not** currently publicly available. This is work in progress.
 
 #### Raspberry Pi
-SPIN can also be installed on a [Raspberry Pi](https://www.raspberrypi.org/), thus extending it with SPIN functionality.
+SPIN can also be installed on a [Raspberry Pi 3](https://www.raspberrypi.org/), thus extending it with SPIN functionality.
+
+You can [download the firmware here](https://valibox.sidnlabs.nl/pages/download.html).
 
 | <i class="fa fa-exclamation-triangle"></i> Please note: |
 | :-----: |
-| **Not** currently available. We expect to create SPIN packages that can be installed with a [packaging tool](https://www.raspberrypi.org/documentation/linux/software/apt.md).
+| **Beta !** The Raspberry PI 3 images are beta-versions only, we are currently testing them.).
+
+#### VirtualBox
+SPIN can also be installed on as VM on [VirtualBox](https://www.virtualbox.org/), making it easy to quickly explore the inner workings.
+
+You can [download them here](https://valibox.sidnlabs.nl/pages/download.html).
+
+| <i class="fa fa-exclamation-triangle"></i> Please note: |
+| :-----: |
+| **Beta !** The VirtualBox images are beta-versions only, we are currently testing them.).
 
 #### Firmware image downloads
 

@@ -10,6 +10,6 @@ chapter = true
 
 # Contribute to SPIN
 
-Here we will describe how you can contribute to SPIN.
-
+Let's co-create! [Check out this page](https://spin4home.nl/cocreation).
+ 
 ![SPINarch](/images/iphone.png?width=20pc&classes=border "SPIN on an iPhone")

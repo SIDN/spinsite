@@ -18,12 +18,16 @@ slug = "faq"
 [ValiBox](https://valibox.sidnlabs.nl/) is een eerder project van SIDN Labs. Het is een kleine thuisrouter, met een DNSSEC-validerende resolver als belangrijkste onderscheinde funtie. Wij hebben de ValiBox als platform genomen om daar SPIN-functionaliteit aan toe te voegen. Tezamen vormen zij een werkend geheel. Maar als basis van SPIN kan ook een ander apparaat fungeren. Zo hebben we SPIN ook als experiment draaiend gekregen op een [Turris Omnia](https://omnia.turris.cz/en/) router van NIC.CZ. De ValiBox component is daarbij dus vervangen door de Turris.
 
 ##### Doet SPIN 'deep packet' inspectie?
-(TODO: answer here)
+Nee, maar we onderzoeken manieren om anomaliedetectie uit te voeren om kwaadaardig gedrag te detecteren.
 
 ##### Hoe zit het met mijn privacy?
-(TODO: answer here)
+
+248/5000
+SPIN verwerkt alles lokaal. Geen persoonlijke gegevens verlaten ooit het apparaat. Het is echter belangrijk om te begrijpen dat de GUI surfgedrag van iedereen in het netwerk kan onthullen. Dit kan worden omzeild door bepaalde apparaten uit te sluiten van de weergave.
 
 ##### Zijn er vergelijkbare producten?
-(TODO: answer here)
+Ja en eerdaags zullen we er hier een paar noemen.
 
+##### Can ik meedoen?
+Zeker! Alles is open-source. [Kijk ook eens hier](https://spin4home.nl/cocreation).
 

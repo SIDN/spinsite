@@ -24,5 +24,6 @@ We bieden SPIN support aan op een 'best-effort' basis (in technische zin, niet i
 | IoT | [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things). 
 | SPIN | Staat voor 'Security and Privacy for In-home Networks' - een open source referentie-softwareplatform voor veilige en privacy-vriendelijke IoT thuisnetwerken.
 | Turris Omnia | Router gemaakt door [CZ.NIC](https://omnia.turris.cz/en/) en gebaseerd op  open source hardware en [OpenWRT](https://wiki.openwrt.org/toh/hwdata/turris/turris_turris_omnia). Geschikt om SPIN firmware te draaien.
+| VirtualBox | [Oracle VM VirtualBox](https://www.virtualbox.org/) (voorheen Sun VirtualBox en Innotek VirtualBox) is a vrij en open-source 'hosted hypervisor' voor x86 computers. Geschikt om SPIN firmware VM te draaien.
 | ValiBox | Eerdr SIDN Labs project bestaande uit GL-iNet (firmware) met DNSSEC validerende resolver met 'Negative Trust Anchor' (NTA) management. Beta versies van de firmware zijn uitgebreid met SPIN functionalieit.
 
