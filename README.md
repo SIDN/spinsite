@@ -20,3 +20,5 @@ $ git submodule update
 Now you are ready to add content and customize looks. Do not change any file inside theme directory.
 
 Refer to this theme in config.toml.
+
+![SIDN Labs Logo](https://workbench.sidnlabs.nl/assets/img/sidnlabs_logo.png)
