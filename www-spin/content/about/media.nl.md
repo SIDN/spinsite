@@ -13,11 +13,12 @@ Informatiebronnen op het internet die van pas kunnen komen om te starten met SPI
 #### Academische publicaties
 | Titel | Auteur(s) | Gelegenheid | Datum | Taal |
 | -----:| ---------:| -----------:| -----:| ----:|
-| [SPIN: A User-centric Security Extension for In-home Networks](https://www.sidnlabs.nl/downloads/papers-reports/SIDN-TR-2017-002.pdf) | C. Hesselman / J. Jansen / M. Davids / R. de O. Schmidt | SIDN Labs Technical Report SIDN-TR-2017-002 | juni 2017 | EN
-| [Towards automated DDoS abuse protection](https://www.sidnlabs.nl/downloads/theses/towards_automated_ddos_abuse_protection_cschutijser.pdf) | C. Schutijser | Masterscriptie | augustus 2018 | EN
+| [SPIN: A User-centric Security Extension for In-home Networks](https://www.sidnlabs.nl/downloads/jK-ApC10TLqGf6iKbNZNYQ/8bb09c6fcc25c3b6f8fe9b8517bce5b8/SIDN-TR-2017-002.pdf) | C. Hesselman / J. Jansen / M. Davids / R. de O. Schmidt | SIDN Labs Technical Report SIDN-TR-2017-002 | June 2017 | EN
+| [Towards automated DDoS abuse protection](https://www.sidnlabs.nl/downloads/xLLbnnp9RUukqYC90qfKzg/1f0e8627ab100b36eeb0363a1f576426/Towards_automated_DDoS_abuse_protection_CSchutijser.pdf) | C. Schutijser | Master thesis | August 2018 | EN
+
 
 #### Blogs
-* [Bescherming van security en privacy in het internet of things](https://www.sidnlabs.nl/en/spin) - 14 maart 2017
+* [Bescherming van security en privacy in het internet of things](https://www.sidnlabs.nl/nieuws-en-blogs/protecting-security-and-privacy-in-the-internet-of-things) - 30 maart 2017
 * [Slimme dingen van slechte kwaliteit bedreigen betrouwbaarheid internet](https://www.sidnlabs.nl/a/weblog/slimme-dingen-van-slechte-kwaliteit-bedreigen-betrouwbaarheid-internet) - 31 oktober 2017
 * [SPIN: A User-centric Security Extension for In-home Networks](https://www.sidnlabs.nl/a/weblog/spin-a-user-centric-security-extension-for-in-home-networks) - 28 juni 2017
 * [Herontwerp van SPIN naar een referentieplatform voor veilige en privacy-vriendelijke IoT-thuisnetwerken](https://www.sidnlabs.nl/a/weblog/herontwerp-van-spin-naar-een-referentieplatform-voor-veilige-en-privacy-vriendelijke-iot-thuisnetwerken) - 17 januari 2018

@@ -13,11 +13,11 @@ Resources on the internet which might be helpful to get started with SPIN.
 #### Academic publications
 | Title | Author(s) | Occasion | Date | Language |
 | -----:| ---------:| --------:| ----:| --------:|
-| [SPIN: A User-centric Security Extension for In-home Networks](https://www.sidnlabs.nl/downloads/papers-reports/SIDN-TR-2017-002.pdf) | C. Hesselman / J. Jansen / M. Davids / R. de O. Schmidt | SIDN Labs Technical Report SIDN-TR-2017-002 | June 2017 | EN
-| [Towards automated DDoS abuse protection](https://www.sidnlabs.nl/downloads/theses/towards_automated_ddos_abuse_protection_cschutijser.pdf) | C. Schutijser | Master thesis | August 2018 | EN
+| [SPIN: A User-centric Security Extension for In-home Networks](https://www.sidnlabs.nl/downloads/jK-ApC10TLqGf6iKbNZNYQ/8bb09c6fcc25c3b6f8fe9b8517bce5b8/SIDN-TR-2017-002.pdf) | C. Hesselman / J. Jansen / M. Davids / R. de O. Schmidt | SIDN Labs Technical Report SIDN-TR-2017-002 | June 2017 | EN
+| [Towards automated DDoS abuse protection](https://www.sidnlabs.nl/downloads/xLLbnnp9RUukqYC90qfKzg/1f0e8627ab100b36eeb0363a1f576426/Towards_automated_DDoS_abuse_protection_CSchutijser.pdf) | C. Schutijser | Master thesis | August 2018 | EN
 
 #### Blogs
-* [Protecting security and privacy in the internet of things](https://www.sidnlabs.nl/en/spin?language_id=2) - 14 March 2017
+* [Protecting security and privacy in the internet of things](https://www.sidnlabs.nl/en/news-and-blogs/protecting-security-and-privacy-in-the-internet-of-things) - 14 March 2017
 * [Low-quality smart devices threaten the internet's reliability](https://www.sidnlabs.nl/a/weblog/low-quality-smart-devices-threaten-the-internets-reliability?language_id=2) - 31 Octoboer 2017
 * [SPIN: A user-centric Security Extension for In-home Networks](https://www.sidnlabs.nl/a/weblog/spin-a-user-centric-security-extension-for-in-home-networks) - 28 june 2017
 * [Redesigning SPIN to a reference platform for secure and privacy-enabled IoT home networks](https://www.sidnlabs.nl/a/weblog/redesigning-spin-to-a-reference-platform-for-secure-and-privacy-enabled-iot-home-networks?language_id=2) - 17 January 2018
