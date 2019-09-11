@@ -35,7 +35,7 @@ Resources on the internet which might be helpful to get started with SPIN.
 * [IoT: een nachtmerrie van slaapkamer tot staatsveiligheid?](https://www.sidnlabs.nl/downloads/8En-DtzRTSqgxR7LwpGyWw/add16e4982976e3c12e09b1405fa68ad/20181120_IOT_een_nachtmerrie_van_slaapkamer_tot_staatsveiligheid-v10.pdf) - 20 November 2018
 
 #### Education
-* [Course on SPIN-like systems](https://www.4tu.nl/cybsec/en/course-program/ssh/) at the University of Twente
+* [Security Services for the IoT (SSI)](https://courses.sidnlabs.nl/ssi/) at the University of Twente
 
 ### Various non SIDN Labs related
 * [Report on Status of International Cybersecurity Standardization for the IoT](https://csrc.nist.gov/CSRC/media/Publications/nistir/8200/draft/documents/nistir8200-draft.pdf) - Draft NISTIR 8200 by NIST
